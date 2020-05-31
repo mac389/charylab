@@ -1,16 +1,15 @@
 ---
-title: "Allan Lab - Home"
+title: "Chary Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Chary Lab at Weill Cornell Medical College."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+I am an Instructor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). My research focusses on using artificial intelligence for drug discovery and syndromic surveillance. I am also interested in creating computable representations of medical reasoning.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
-    <!-- Menu -->
+
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -55,8 +54,6 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
 
 
 To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
