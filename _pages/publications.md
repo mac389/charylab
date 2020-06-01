@@ -56,6 +56,7 @@ permalink: /publications/
 
 ## Full List
 
+{% bibliography %}
 
 {% for publi in site.data.publist %}
 

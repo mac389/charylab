@@ -28,11 +28,15 @@ excerpt_separator: "\n\n"
 incremental: false
 
 gems: 
-  - 'jekyll-scholar'
+  - 'jekyll/scholar'
 
 scholar:
   style: apa
   locale: en
+  sort_by: date
+  order: descending
+  source: ./_bibliography
+  bibliography: all-my-works.bib
 
 # Markdown Processing
 kramdown:
