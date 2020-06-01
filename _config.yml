@@ -27,7 +27,12 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-gems: ['jekyll/scholar']
+gems: 
+  - 'jekyll-scholar'
+
+scholar:
+  style: apa
+  locale: en
 
 # Markdown Processing
 kramdown:

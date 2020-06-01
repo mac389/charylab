@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Chary  - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Chary -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=6w7RScEAAAAJ&hl=en)).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -26,7 +26,9 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  {% if publi.image %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  {% endif %}
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
@@ -53,6 +55,7 @@ permalink: /publications/
 
 
 ## Full List
+
 
 {% for publi in site.data.publist %}
 
