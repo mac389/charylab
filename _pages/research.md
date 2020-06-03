@@ -1,16 +1,16 @@
 ---
-title: "Allan Lab - Research"
+title: "Chary Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Chary Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+My overarching goal is to create computational versions of medical and scientific knowledge. To do so I use a combination a natural language processing, machine learning, and good old fashioned AI (GOFAI).  
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
+Current questions of interest include: (i) What are the spatiotemporal patterns of use of novel psychoactive substances?, (ii) Can we infer nover signal transduction pathways or even therapeutics from online discussions about novel psychoactive substance use?, and (iii) What representations of knowledge to we need to do (i) and (ii) at scale? 
  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
