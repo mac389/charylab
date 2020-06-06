@@ -3,6 +3,7 @@ layout: post
 author: Michael Chary
 tags: [substance use disorder, natural language processing]
 date: 2020-06-06
+excerpt: how people write about substance use, substance effects
 ---
 
 
