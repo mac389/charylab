@@ -1,3 +1,10 @@
+---
+layout: post
+author: Michael Chary
+tags: [substance use disorder, natural language processing]
+date: 2020-06-06
+---
+
 
 _Starting with notes from [A Computational Analysis of the Language of Drug Addiction](http://www.aclweb.org/anthology/E17-2022). 
 I will expand this into a notebook a la Cosma Shalizi._
