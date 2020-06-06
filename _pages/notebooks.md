@@ -9,7 +9,8 @@ This organization is an homage to [Cosma Shalizi's notebooks](http://bactra.org/
 
 **Structure** Each notebook represents a general field. The date in parentheses represents the last time I updated that notebook. I try to strike a balance between flat and linked structures. _(The creation of the most useful table of contents is, itself, an exercise in ontology.)_
 
-### Five Most Recently Edited Posts
+### Five Most Recently Edited Posts (Or [tag view](tag.html))
+
 
 <ul>
   {% for post in site.posts limit:5 %}

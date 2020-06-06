@@ -1,5 +1,6 @@
 ---
 date: 2020-06-06
+tag: [fellow-in-training, toxicology]
 ---
 # Tweetchats, Disseminating Information, and Sparking Further Scientific Discussion with Social Media
 
