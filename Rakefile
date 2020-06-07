@@ -38,16 +38,16 @@ task :deploy do
     status = system("git checkout #{production_branch}")
     puts status ? "Success" : "Failed"
 
-    puts "\n## Pulling most recent #{production_branch} branch from remote"
-    status = system("git pull origin #{production_branch}")
-    puts status ? "Success" : "Failed"
-    puts "\n## Removing #{production_branch} branch contents"
-    status = system("rm -rf *")
-    puts status ? "Success" : "Failed"
+    #puts "\n## Pulling most recent #{production_branch} branch from remote"
+    #status = system("git pull origin #{production_branch}")
+    #puts status ? "Success" : "Failed"
+    #puts "\n## Removing #{production_branch} branch contents"
+    #status = system("rm -rf *")
+    #puts status ? "Success" : "Failed"
 
-    puts "\n## Moving contents in tmp folder to #{production_branch} branch"
-    status = system("mv #{tmp}/* .")
-    puts status ? "Success" : "Failed"
+    #puts "\n## Moving contents in tmp folder to #{production_branch} branch"
+    #status = system("mv #{tmp}/* .")
+    #puts status ? "Success" : "Failed"
   end
   puts "\n## Adding #{production_branch} branch changes"
   status = system("git add -A")
