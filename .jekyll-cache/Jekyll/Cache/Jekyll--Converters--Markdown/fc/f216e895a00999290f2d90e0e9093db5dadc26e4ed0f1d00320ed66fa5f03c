@@ -1,4 +1,4 @@
-I"k<h3 id="under-construction">Under construction</h3>
+I"o<h3 id="under-construction">Under construction</h3>
 
 <p>I am an Instructor in Emergency Medicine and Medical Toxicology at <a href="https://weill.cornell.edu/">Weill Cornell Medical College</a>. My research focusses on using artificial intelligence for drug discovery and syndromic surveillance. I am also interested in creating computable representations of medical reasoning.</p>
 
@@ -19,25 +19,25 @@
     <div class="carousel-inner">
 
         <div class="item active">
-            <img src="http://localhost:4000/images/slider7001400/better-nsduh-figure.png" alt="Slide 1" />
+            <img src="/images/slider7001400/better-nsduh-figure.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/dxm-dose-youtube.jpg" alt="Slide 2" />
+            <img src="/images/slider7001400/dxm-dose-youtube.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/cluster-drug-drug-correlation-by-topic.png" alt="Slide 3" />
+            <img src="/images/slider7001400/cluster-drug-drug-correlation-by-topic.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/logos.jpg" alt="Slide 4" />
+            <img src="/images/slider7001400/logos.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
+            <img src="/images/slider7001400/NoiseCover2.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
+            <img src="/images/slider7001400/SmartTipSide.jpg" alt="Slide 6" />
         </div>       
          <div class="item">
-            <img src="http://localhost:4000/images/slider7001400/lab.jpg" alt="Slide 7" />
+            <img src="/images/slider7001400/lab.jpg" alt="Slide 7" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -54,14 +54,14 @@
 
 <p>We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. <a href="https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html">the wall of signatures from Ehrenfest lecturers</a>). We exchange ideas and work with our neighbors from <a href="http://www.physics.leidenuniv.nl/qo-home">Quantum Matter &amp; Optics</a>, as well as with the colleagues from our <a href="https://www.lorentz.leidenuniv.nl">world-class theory section</a>.</p>
 
-<p><strong>We are  looking for passionate new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(more info)</a> <strong>!</strong></p>
+<p><strong>We are  looking for passionate new PhD students, Postdocs, and Master students to join the team</strong> <a href="/vacancies">(more info)</a> <strong>!</strong></p>
 
 <p>I am grateful for funding from the National Institute on Drug Abuse (NIDA) in the form of their Loan Repayment Program and start-up funding provided by the Emergency Department at Weill Cornell Medical College.</p>
 
 <figure class="fourth">
-  <p><img src="http://localhost:4000/images/logopic/Logo_Leiden.jpg" style="width: 210px" />
-  <img src="http://localhost:4000/images/logopic/Logo_Nanofront.jpg" style="width: 110px" />
-  <img src="http://localhost:4000/images/logopic/Logo_NWO.jpg" style="width: 120px" />
-  <img src="http://localhost:4000/images/logopic/Logo_ERC.jpg" style="width: 110px" /></p>
+  <p><img src="/images/logopic/Logo_Leiden.jpg" style="width: 210px" />
+  <img src="/images/logopic/Logo_Nanofront.jpg" style="width: 110px" />
+  <img src="/images/logopic/Logo_NWO.jpg" style="width: 120px" />
+  <img src="/images/logopic/Logo_ERC.jpg" style="width: 110px" /></p>
 </figure>
 :ET
