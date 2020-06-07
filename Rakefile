@@ -1,3 +1,7 @@
+puts "\n## Building _site files"
+status = system("jekyll build")
+puts status ? "Success" : "Failed"
+
 desc "Commit _site/"
 task :commit do
   puts "\n## Staging modified files"
