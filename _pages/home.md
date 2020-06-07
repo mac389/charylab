@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+### Under construction ###
+
 I am an Instructor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). My research focusses on using artificial intelligence for drug discovery and syndromic surveillance. I am also interested in creating computable representations of medical reasoning.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >

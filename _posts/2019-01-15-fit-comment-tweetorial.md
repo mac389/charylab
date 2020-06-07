@@ -1,6 +1,8 @@
 ---
 date: 2020-06-06
 tag: [fellow-in-training, toxicology]
+excerpt: tweetchats are a (problematic) way to disseminate information
+layout: post
 ---
 # Tweetchats, Disseminating Information, and Sparking Further Scientific Discussion with Social Media
 
