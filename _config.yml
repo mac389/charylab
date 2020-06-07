@@ -10,7 +10,7 @@ title: The Chary Lab
 email: mac389@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Computational Toxiology, and (Nearly) Everything is Toxicology
-url: ""
+url: "mac389.github.io"
 baseurl: "charylab"
 
 include:
