@@ -13,7 +13,7 @@ This organization is an homage to [Cosma Shalizi's notebooks](http://bactra.org/
 
 
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts %}
     <li>
       <b><a href="{{ post.url }}">{{ post.title }}</a></b> ({{ post.date | date_to_string }})
       {{ post.excerpt }}
