@@ -6,10 +6,7 @@ sitemap: false
 permalink: /vacancies
 layout: default
 author: Michael Chary
-title: "Notebooks"
-excerpt: "Openings"
-sitemap: false
-permalink: /notebooks
+---
 
 # Open positions
 
