@@ -5,7 +5,7 @@ permalink: /notebooks
 
 ### Notebooks
 
-This organization is an homage to [Cosma Shalizi's notebooks](http://bactra.org/notebooks/). These notebooks, like his, charting an attempt to turn data and information into wisdom. Please use GitHub's version control to fork and improve this. 
+This organization is an homage to [Cosma Shalizi's notebooks](http://bactra.org/notebooks/). These notebooks, like his, charting an attempt to turn data and information into wisdom. Please use GitHub's version control to fork and improve this. *Incredible bob*
 
 **Structure** Each notebook represents a general field. The date in parentheses represents the last time I updated that notebook. I try to strike a balance between flat and linked structures. _(The creation of the most useful table of contents is, itself, an exercise in ontology.)_
 
