@@ -11,7 +11,7 @@ email: mac389@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Computational Toxiology, and (Nearly) Everything is Toxicology
 url: ""
-baseurl: ""
+baseurl: "charylab"
 
 include:
   - .htaccess
