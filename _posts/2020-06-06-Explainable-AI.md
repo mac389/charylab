@@ -18,4 +18,5 @@ Thiagarajan et al. (2020) [published a preprint](https://arxiv.org/pdf/2004.1448
 - How to do with language
 - Counterfactual reasoning
 - Similarity to Eve Marder's work
+- Could also look at latent spaces across receptors
 
