@@ -80,8 +80,34 @@ My interpretation is that there is only one intersection because the Methadone r
 
 First, download the ids of all targets.
 ```bash
-curl -Lfv -o filename.zip -u $username:$password https://go.drugbank.com/releases/5-1-9/downloads/target-all-polypeptide-ids
+curl -Lfv -o filename.zip -u $username:$password https://go.drugbank.com/releases/5-1-9/downloads/target-all-polypeptide-ids -vs > ./external/drugbank_targets .txt 2>&1
+
+wget http://rest.kegg.jp/conv/eco/uniprot 
+mv uniprot ./external uniprot kegg_uniprot_ids.tsv
 ```` 
+My file structure now looks like. 
+```bash
+
+tree -d 
+.
+├── Area 51
+└── external
+```
+A peak at the files: 
+```bash
+#we are in the external subdirectory of data/
+head -n 3 drug-bank-target-ids.csv | csvlook | less -S #has very long columns
+```
+| ID | Name | Gene Name | GenBank Protein ID | GenBank Gene ID | UniProt ID | Uniprot Title | PDB ID | GeneCar | ...|
+| -- | --------------------------- | --------- | ------------------ | --------------- | ---------- | ------------- | ------ | ------- | ---|
+|  1 | Peptidoglycan synthase FtsI | ftsI      |          1,574,687 | L42023          | P45059     | FTSI_HAEIN    |        |        |
+|  2 | Histidine decarboxylase     | HDC       |             32,109 | X54297          | P19113     | DCHS_HUMAN    | 4E1O   |        |
+
+```bash
+head -n 2 kegg_uniprot_ids.tsv 
+up:P0AD86	eco:b0001
+up:P00561	eco:b0002
+```
 
 #### Alternative Approaches to Computing Plausibility
 
