@@ -8,18 +8,40 @@ permalink: /research/
 
 # Research
 
-My overarching goal is to create computational versions of medical and scientific knowledge. To do so I use a combination a natural language processing, machine learning, and good old fashioned AI (GOFAI).  
+My overarching goals are to expand medical reasoning beyond the limits of human faculties and to use unstructured data from the Internet to identify spatiotemporal patterns of substance use, disease exposure, and disease manifestation.  To this end, I use natural language processing, machine learning, and artificial intelligence to create computational versions of medical and scientific knowledge to allow computers to reason about medicine as experienced clinicians might.
 
 Current questions of interest include: (i) What are the spatiotemporal patterns of use of novel psychoactive substances?, (ii) Can we infer nover signal transduction pathways or even therapeutics from online discussions about novel psychoactive substance use?, and (iii) What representations of knowledge to we need to do (i) and (ii) at scale? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
+<!-- nice place for a pic ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}  -->
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+### Syndromic Surveillance of Social Media  
+Novel psychoactive substances include synthetic opioids such as fentanyl or carfentanil, substituted phenethylamines, such as ''bath salts'', and synthetic cannabinoid receptor agonists (''synthetic marijuana''). The rate of emergence of these substances has outstripped the ability of traditional means of public health surveillance to identify the substances and presentations or toxicities of each substance. **The central finding of my work is that patterns of use of novel psychoactive substances can be estimated from social media (YouTube, Twitter, online discussion fora.** I demonstrated that this information was corroborated by accepted sources of information on substance use (National Survey on Drug Usage & Health) for opioids and dextromethorphan (an ingredient in cough syrup that in large amounts has euphoric and dissociative effects). These studies opened the door to using social media to discover new methods of abuse (e.g. abusing Immodium (loperamide) to prevent opioid withdrawal) and better understand the structure-function relationship in derivatives of MDMA (Ecstasy) using user reports submitted online. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+1. {% reference chary2013leveraging %}
+1. {% reference chary2014signs %}
+1. {% reference chary2017epidemiology %}
+1. {% reference chary2018candyflipping %}
+1. {% reference chary2020tweetchats %}
+1. {% reference whitehill2019incidence %}
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+#### Related Notebooks: 
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+<!-- nice way to put in a picture ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"} -->
+
+### Social Media & Drug Development 
+Social Media can also provide a starting point for identifying compounds that lead to new therapeutics and help us better understand how the brain functions. 
+
+#### Related Notebooks:
+
+
+### Explainable Artificial Intelligence for Medical Toxicology
+The volume of knowledge about drugs of abuse, including novel psychoactive substances, outstrips human processing capability. The acumen of experience clinicians, nevertheless, identifies patterns and infers knowledge from data in ways that current approaches to artificial intelligence cannot replicate. A digital representation of medical decision-making could allow computers to reason at the scale of Big Data with the acumen of an experienced clinician. **The central finding of my work in this area is that ontologies can create a digital representation of medical reasoning about opioid use disorders.** 
+
+1. {% reference sudo %}
+1. {% reference chary2018328emf %}
+1. {% reference chary2020role %}
+
+
+#### Related Notebooks:
+
+

@@ -8,7 +8,7 @@ permalink: /
 
 ### Under construction ###
 
-I am an Instructor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). My research focusses on using artificial intelligence for drug discovery and syndromic surveillance. I am also interested in creating computable representations of medical reasoning.
+I am an Instructor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). My research focuses on using artificial intelligence for drug discovery and syndromic surveillance. I am also interested in creating computable representations of medical reasoning.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
 
@@ -27,13 +27,13 @@ I am an Instructor in Emergency Medicine and Medical Toxicology at [Weill Cornel
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="/images/slider7001400/better-nsduh-figure.png" alt="Slide 1" />
+            <img src="{{ site.baseurl }}/images/slider/better-nsduh-figure.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/dxm-dose-youtube.jpg" alt="Slide 2" />
+            <img src="/images/slider/dxm-dose-youtube.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/cluster-drug-drug-correlation-by-topic.png" alt="Slide 3" />
+            <img src="/images/slider/cluster-drug-drug-correlation-by-topic.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -48,15 +48,12 @@ I am an Instructor in Emergency Medicine and Medical Toxicology at [Weill Cornel
 
 To this end, I use social media (Twitter, YouTube, etc) for syndromic surveillance and to construct computable knowledge representations. We also try to explain interesting patterns we observe in the context of known biochemical signaling as contained in repositories such as PubChem.
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
-
+ {% comment %}
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+{% endcomment %}
 
 I am grateful for funding from the National Institute on Drug Abuse (NIDA) in the form of their Loan Repayment Program and start-up funding provided by the Emergency Department at Weill Cornell Medical College. 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="/images/logopic/NIDA.png" style="width: 210px">
 </figure>

@@ -3,14 +3,9 @@ layout: default
 permalink: /tag
 ---
 
-<ul class="tags">
-{% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
-  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
-{% endfor %}
-</ul>
-
+<br>
+<br>
+<br>
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
@@ -28,3 +23,13 @@ permalink: /tag
 {% endfor %}
 </ul>
 {% endfor %}
+
+
+<ul class="tags">
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+{% endfor %}
+</ul>
+ 

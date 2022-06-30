@@ -4,13 +4,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
-  <link rel="stylesheet" href="/css/main.css"> <!-- This makes style show up on GitHub Pages -->
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-<link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+  <link rel="stylesheet" href='{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}'>
+<!-- <link rel="stylesheet" href="./css/main.css">  -->  <!-- This makes style show up on GitHub Pages --> 
+<link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
+<link rel="stylesheet" type="text/css" href="{{ 'css/kekule.css' | relative_url }} " />
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+  <script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<meta name="google-site-verification" content="3MYPLcVtIrIJAq-zUX83Yq9dvsLEhvtcq3ea8GktHTs" />
+<link rel="shortcut icon" type ="image/x-icon" href="/images/favicon.ico">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15405704-2"></script>
 
 {% if jekyll.environment == 'production' %}
-{% include analytics.html %}
+  {% include analytics.html %}
 {% endif %}
 
 </head>

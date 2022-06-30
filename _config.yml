@@ -5,17 +5,25 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+
+# Command to generate static files: 
+# JEKYLL_ENV=production bundle exec jekyll build -d ../mac389.github.io --incremental --watch
+
 # Site settings
 title: The Chary Lab
 email: mac389@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Computational Toxiology, and (Nearly) Everything is Toxicology
-url: ""
+url: "mac389.github.io"
 baseurl: ""
 
 include:
   - .htaccess
   - _pages
+
+plugins: 
+  - jekyll-sitemap
+  - jekyll-spaceship
 
 sass:
   sass_dir: _sass
@@ -28,20 +36,30 @@ excerpt_separator: "\n\n"
 incremental: false
 
 gems: 
-  - 'jekyll/scholar'
+  - jekyll/scholar
+  - jekyll-seo-tag
+  - jekyll-mermaid
+  - jekyll-quicklatex
+
+mermaid:
+  src: './js/mermaid.js'
 
 scholar:
-  style: apa
+  style: nature
   locale: en
-  sort_by: date
+  sort_by: [year,month]
   order: descending
   source: ./_bibliography
   bibliography: all-my-works.bib
+  bibliography_template: "{{ reference | replace_first: 'Chary, M.', '<b>Chary, M.</b>' }}"
+  bibtex_filters:
+    - latex
 
 # Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
+  mathjax: true
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char

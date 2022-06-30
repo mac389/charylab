@@ -4,7 +4,7 @@
 	  <div class="row">
 		<div class="col-sm-4">
 			
-		  <p>&copy 2020 Chary Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and  modify it for your own research group.</a></p>
+		  <p>&copy; 2020 Chary Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a>;  <a href="{{ site.url }}{{ site.baseurl }}/aboutwebsite.html">copy and modify this template for your own research group.</a></p>
               <p>We are part of the <a href="https://emed.weill.cornell.edu/">Department of Emergency Medicine</a> at <a href="https://weill.cornell.edu/">Weill Cornell Medical College</a>.</p>
 		   <p>  </p><p>
             		  
@@ -14,18 +14,27 @@
 		  Funding:<br />
 		  - Loan Repayment Program from National Institute of Drug abuse <br/>
 		</div>
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Oort building, Leiden University<br />
-		  Niels Bohrweg 2<br />
-		  2333 CA Leiden<br />
-		  Netherlands <br />
-            (<a href="https://goo.gl/maps/H2RjutkyoUH2">Maps</a>, <a href="http://www.physics.leidenuniv.nl/travel-directions">Directions</a>)
-		</div>
+		<!-- <div class="col-sm-4"> put contact information here  -->
+		</div> 
 	  </div>
 	</div>
   </div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script src="{{ '/js/bootstrap.min.js' | relative_url }}"></script>
+
+{% if page.chem_vis %}
+	<script src="{{ 'js/kekule.js' | relative_url }}"></script>
+{% endif %}
+
+  <script src="https://unpkg.com/mermaid@8.9.3/dist/mermaid.min.js"></script>
+<script>
+  $(document).ready(function () {
+    mermaid.initialize({
+      startOnLoad:true,
+      theme: "default",
+    });
+    window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  });
+</script>

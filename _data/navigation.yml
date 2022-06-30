@@ -1,6 +1,20 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
+- title: Chary Lab @ Weill Cornell
+  url: /
+- title: Team
+  url: /team
+- title: Publications
+  url: /publications
+- title: Research
+  sublinks:
+    - title: Contribution to Science
+      url: /research
+    - title: Opioid Ontology
+      url: /opioid_ontology
+    - title: 2,4-dinitrophenol
+      url: /dnp
+    - title: Latent Representations of Chemical Activity
+      url: /ann_latent_reps_drugs
+    - title: Onboarding
+      url: /onboarding
+- title: Notebooks
+  url: /notebooks
