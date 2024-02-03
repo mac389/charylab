@@ -1,10 +1,6 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
+- name: Jai Kapoor
+  info: High School Student
+  education:
+    - "Dalton High School"
+  main_project: Named Entity Linking
+  main_project_link:

@@ -1,0 +1,16 @@
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Custom CSL style</title>
+    <id>custom-csl-style</id>
+  </info>
+  <citation disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <layout delimiter=". ">
+      <text value="("></text>
+      <names variable="author">
+        <name form="short" delimiter=", " and="symbol"/>
+      </names>
+      <text value=")"></text>
+      <date variable="issued" form="text"/>
+    </layout>
+  </citation>
+</style>

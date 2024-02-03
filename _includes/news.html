@@ -2,8 +2,8 @@
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:9 %}
-{{ article.date }}
+{% for article in site.data.news limit:3 %}
+{{ article.date | date_to_string }}
 <p>{{ article.headline }}</p>
 {% endfor %}
 

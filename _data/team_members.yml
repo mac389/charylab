@@ -1,12 +1,24 @@
 - name: Michael Chary
-  #photo: Milan.jpg
-  info: Instructor, Started July 2020
-  email: mic9189@nyp.org
-  number_educ: 3
-  education1: Fellow (Harvard Medical Toxicology Fellowship) 2018-2020
-  education2: Residency (Emergency Medicine, New York-Presbyterian/Queens) 2015-2018
-  education3: MD/PhD (Mt. Sinai, New York City)
+  photo:  Chary.jpg
+  info: "Instructor"
+  email: "mic9189 [at] med.cornell.edu"
+  education:
+    - "Fellow (Harvard Medical Toxicology Fellowship) 2018-2020"
+    - "Residency (Emergency Medicine, New York-Presbyterian/Queens) 2015-2018"
+    - "MD/PhD (Mt. Sinai, New York City)"
 
+- name: Stefan Bartell
+  photo: rock.jpg
+  info: "Postdoc"
+  email: "stb4008 [at] med.cornell.edu"
+  education:
+    - "PhD (Linguistics): University of Delaware"
+
+- name: Joshua Chaz Rivera
+  photo: rock.jpg
+  info: "Visiting Scholar"
+  education:
+    - "BS (Mathematics, Linguistics): NYU"
 # - name: Jianfeng (Jacky) Ge
 #   photo: Jacky.jpg
 #   info: Postdoc, started Oct 2019

@@ -3,7 +3,7 @@
   link: 
     display: Journal of Medical Toxicology. 16(3), 10.1007 (epub)
     url: https://link.springer.com/content/pdf/10.1007/s13181-020-00777-5.pdf
-  highlight: 1
+  highlight: 0
   description: Review of mechanism of actions hydroxychloroquine, chlorquine, nucleotide analogs, nucleic acid vaccines, and how to treat overdoses or toxicity from them.
 
 - title: The Role and Promise of Artificial Intelligence in Medical Toxicology.
@@ -18,3 +18,27 @@
   link:  
     display: Clinical Toxicology 58(6):547-548. 2020 
     url: https://scholar.google.com/scholar?hl=en&as_sdt=0,22&cluster=4926562482938340903
+
+- title: Geospatial correlation between COVID-19 health misinformation and poisoning with household cleaners in the Greater Boston Area
+  authors: Chary MA, Overbeek DL, Papadimoulis A, Sheroff A, Burns MM
+  link: 
+    display: Clinical Toxicology (ePub Ahead of Print)
+    url: https://doi.org/10.1080/15563650.2020.1811297
+  highlight: 0
+  description: Demonstration of spatiotemporally specific correlation during COVID-19 between social media discussions about bleach use and household cleaner exposures reported to Poison Control Centers.
+
+- title: "Efficacy of lipid emulsion therapy in treating cardiotoxicity from diphenhydramine ingestion: a review and analysis of case reports"
+  authors: Clemons, Joseph and Jandu, Arvinder and Stein, Brandon and Chary, Michael
+  link:
+    display: Clinical Toxicology 60(5):550-558.2022
+    url: https://www.tandfonline.com/doi/abs/10.1080/15563650.2022.2038187
+  highlight: 0
+  description: Lipid emulsion may rescue hypotension after diphenhydramine overdose.
+
+- title: "COVID-19 Therapeutics: Use, Mechanism of Action, and Toxicity (Xenobiotics)"
+  authors: <b>MA Chary</b>, AF Barbuto, S Izadmehr, M Tarsillo, E Fleischer, MM Burns
+  link:
+    display: ePub ahead of print
+    url: https://rdcu.be/c1Mgu
+  highlight: 1
+  description: Toxicity of pills and natural remedies proposed to treat COVID-19. A follow-up to our 2020 article. 
