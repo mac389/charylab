@@ -1,20 +1,6 @@
-- name: J. Andrew Moreno
-  info: AOC Student
-  education:
-    - "Medical School (Weill Cornell)"
-  main_project: Opioid Ontology
-  main_project_link: /opioid_ontology
-
-- name: Ali Abdelati
-  info: Medical Student
-  education: 
-    - "Medical School (Weill Cornell-Qatar)"
-  main_project: DNP Usage
-  main_project_link: /dnp
-
-- name: Ciara Balanzá
+- name: Jai Kapoor
   info: High School Student
-  education: 
+  education:
     - "Dalton High School"
-  main_project: Latent Representation of Chemical Spaces
-  main_project_link: /ann_latent_reps_drugs
+  main_project: Named Entity Linking
+  main_project_link:

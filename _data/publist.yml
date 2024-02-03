@@ -32,5 +32,13 @@
   link:
     display: Clinical Toxicology 60(5):550-558.2022
     url: https://www.tandfonline.com/doi/abs/10.1080/15563650.2022.2038187
-  highlight: 1
+  highlight: 0
   description: Lipid emulsion may rescue hypotension after diphenhydramine overdose.
+
+- title: "COVID-19 Therapeutics: Use, Mechanism of Action, and Toxicity (Xenobiotics)"
+  authors: <b>MA Chary</b>, AF Barbuto, S Izadmehr, M Tarsillo, E Fleischer, MM Burns
+  link:
+    display: ePub ahead of print
+    url: https://rdcu.be/c1Mgu
+  highlight: 1
+  description: Toxicity of pills and natural remedies proposed to treat COVID-19. A follow-up to our 2020 article. 

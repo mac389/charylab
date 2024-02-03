@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-My overarching goals are to expand medical reasoning beyond the limits of human faculties and to use unstructured data from the Internet to identify spatiotemporal patterns of substance use, disease exposure, and disease manifestation.  To this end, I use natural language processing, machine learning, and artificial intelligence to create computational versions of medical and scientific knowledge to allow computers to reason about medicine as experienced clinicians might.
+My overarching interest is to expand medical reasoning beyond the limits of human faculties. The crucial gaps I focus on are how to get machines to represent knowledge from unstructured data (think prose and poetry not an IRS form) and to get machines to transparently reason with a combination of prior knowledge and that inferrred from unstructurred data. Think of how a physician interviews and examines a patient and then weighs his findings against prior knowledge to identify a diagnosis and treatment plan. To this end, I use natural language processing, machine learning, and artificial intelligence to create computational versions of medical and scientific knowledge to allow computers to reason about medicine as experienced clinicians might. Over the past decade I have used social media as sandbox in which to develop tools to identify spatiotemporal patterns of substance use, disease exposure, and disease manifestation from unstructured data.  
 
 Current questions of interest include: (i) What are the spatiotemporal patterns of use of novel psychoactive substances?, (ii) Can we infer nover signal transduction pathways or even therapeutics from online discussions about novel psychoactive substance use?, and (iii) What representations of knowledge to we need to do (i) and (ii) at scale? 
 
@@ -28,11 +28,6 @@ Novel psychoactive substances include synthetic opioids such as fentanyl or carf
 
 <!-- nice way to put in a picture ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"} -->
 
-### Social Media & Drug Development 
-Social Media can also provide a starting point for identifying compounds that lead to new therapeutics and help us better understand how the brain functions. 
-
-#### Related Notebooks:
-
 
 ### Explainable Artificial Intelligence for Medical Toxicology
 The volume of knowledge about drugs of abuse, including novel psychoactive substances, outstrips human processing capability. The acumen of experience clinicians, nevertheless, identifies patterns and infers knowledge from data in ways that current approaches to artificial intelligence cannot replicate. A digital representation of medical decision-making could allow computers to reason at the scale of Big Data with the acumen of an experienced clinician. **The central finding of my work in this area is that ontologies can create a digital representation of medical reasoning about opioid use disorders.** 
@@ -44,4 +39,7 @@ The volume of knowledge about drugs of abuse, including novel psychoactive subst
 
 #### Related Notebooks:
 
+### Social Media & Drug Development 
+Social Media can also provide a starting point for identifying compounds that lead to new therapeutics and help us better understand how the brain functions. 
 
+#### Related Notebooks:

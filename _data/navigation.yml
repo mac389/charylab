@@ -8,13 +8,21 @@
   sublinks:
     - title: Contribution to Science
       url: /research
-    - title: Opioid Ontology
-      url: /opioid_ontology
     - title: 2,4-dinitrophenol
       url: /dnp
-    - title: Latent Representations of Chemical Activity
-      url: /ann_latent_reps_drugs
+    - title: Herbal & Dietary Supplements
+      url: /hds
+    - title: Morphosyntax
+      url: /morphosyntax
+    - title: Geographic Variation of Opioid Usage
+      url: /geo-opioid
+    - title: Clinical Research
+      url: clinical-research
+    - title: Lesser or Older Projects
+      url: /lesser_older_projects
     - title: Onboarding
       url: /onboarding
 - title: Notebooks
   url: /notebooks
+- title: Journal Club
+  url: /jc

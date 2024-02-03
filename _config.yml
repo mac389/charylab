@@ -5,8 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-
-# Command to generate static files: 
+# Command to generate static files:
 # JEKYLL_ENV=production bundle exec jekyll build -d ../mac389.github.io --incremental --watch
 
 # Site settings
@@ -16,14 +15,16 @@ description: > # this means to ignore newlines until "baseurl:"
   Computational Toxiology, and (Nearly) Everything is Toxicology
 url: "mac389.github.io"
 baseurl: ""
+pdf2svg: "/usr/local/Cellar/pdf2svg"
 
 include:
   - .htaccess
   - _pages
 
-plugins: 
+plugins:
   - jekyll-sitemap
   - jekyll-spaceship
+  - jekyll-toc
 
 sass:
   sass_dir: _sass
@@ -35,22 +36,23 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-gems: 
+gems:
   - jekyll/scholar
   - jekyll-seo-tag
   - jekyll-mermaid
   - jekyll-quicklatex
 
 mermaid:
-  src: './js/mermaid.js'
+  src: "./js/mermaid.js"
 
 scholar:
   style: nature
   locale: en
-  sort_by: [year,month]
+  sort_by: [year, month]
   order: descending
   source: ./_bibliography
   bibliography: all-my-works.bib
+  csl: ./_data/citet.csl
   bibliography_template: "{{ reference | replace_first: 'Chary, M.', '<b>Chary, M.</b>' }}"
   bibtex_filters:
     - latex
@@ -68,3 +70,16 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+collections_dir: collections
+
+collections:
+  podcasts:
+    output: true
+  scientific_notes:
+    output: true
+
+defaults:
+  - scope:
+      path: "images/slider"
+    values:
+      for_slider: true
