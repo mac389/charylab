@@ -8,11 +8,18 @@ permalink: /research/
 
 # Research
 
-My overarching interest is to expand medical reasoning beyond the limits of human faculties. The crucial gaps I focus on are how to get machines to represent knowledge from unstructured data (think prose and poetry not an IRS form) and to get machines to transparently reason with a combination of prior knowledge and that inferrred from unstructurred data. Think of how a physician interviews and examines a patient and then weighs his findings against prior knowledge to identify a diagnosis and treatment plan. To this end, I use natural language processing, machine learning, and artificial intelligence to create computational versions of medical and scientific knowledge to allow computers to reason about medicine as experienced clinicians might. Over the past decade I have used social media as sandbox in which to develop tools to identify spatiotemporal patterns of substance use, disease exposure, and disease manifestation from unstructured data.  
+My **overarching goal** is to expand medical reasoning beyond the limits of human faculties. I focus on:
 
-Current questions of interest include: (i) What are the spatiotemporal patterns of use of novel psychoactive substances?, (ii) Can we infer nover signal transduction pathways or even therapeutics from online discussions about novel psychoactive substance use?, and (iii) What representations of knowledge to we need to do (i) and (ii) at scale? 
+1. How to represent *knowledge* from unstructured data in a computable format. Think of unstructured data as prose or poetry and structured data as an IRS form.
+1. How to represent *reasoning* in a computable format to get machines to transparently reason with a combination of prior knowledge and that inferrred from unstructured data. Think of how a physician interviews and examines a patient and then weighs his findings against prior knowledge to identify a diagnosis and treatment plan. 
 
-<!-- nice place for a pic ![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}  -->
+I use natural language processing, machine learning, and artificial intelligence to create computational versions of medical and scientific knowledge to allow computers to reason about medicine as experienced clinicians might. I have used social media as sandbox in which to develop tools to identify spatiotemporal patterns of substance use, disease exposure, and disease manifestation from unstructured data.  
+
+**Current questions of interest** include: 
+- What are the usage patterns of use of novel psychoactive substances?
+- Can we infer nover signal transduction pathways or even therapeutics from online discussions about novel psychoactive substance use?
+- What representations of knowledge to we need to do (i) and (ii) at scale? 
+
 
 ### Syndromic Surveillance of Social Media  
 Novel psychoactive substances include synthetic opioids such as fentanyl or carfentanil, substituted phenethylamines, such as ''bath salts'', and synthetic cannabinoid receptor agonists (''synthetic marijuana''). The rate of emergence of these substances has outstripped the ability of traditional means of public health surveillance to identify the substances and presentations or toxicities of each substance. **The central finding of my work is that patterns of use of novel psychoactive substances can be estimated from social media (YouTube, Twitter, online discussion fora.** I demonstrated that this information was corroborated by accepted sources of information on substance use (National Survey on Drug Usage & Health) for opioids and dextromethorphan (an ingredient in cough syrup that in large amounts has euphoric and dissociative effects). These studies opened the door to using social media to discover new methods of abuse (e.g. abusing Immodium (loperamide) to prevent opioid withdrawal) and better understand the structure-function relationship in derivatives of MDMA (Ecstasy) using user reports submitted online. 

@@ -35,7 +35,7 @@ Classes (Is there a pre-existing classification I could use?). Links to CSV only
 6. Calcium Channel Blocker ([CSV](https://github.com/mac389/molecular-cnn/blob/main/data/calcium_channel_blockers_training_list.tsv))
 7. Cannabinoids ([CSV](https://github.com/mac389/molecular-cnn/blob/main/data/cannabinoids_training_list.tsv))
 
-- [Extended Discussion on DB Creation]({% post_url  2022-06-03-details-on-database-of-molecular-structures %})
+- [Extended Discussion on DB Creation]({% post_url 2022-06-03-details-on-database-of-molecular-structures %})
 
 
 Testing sets:

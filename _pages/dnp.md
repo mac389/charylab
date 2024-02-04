@@ -30,7 +30,6 @@ parse_block_html: true
 
 #### Related Notebooks
 
-- [2,4-dinitrophenol]({% post_url 2020-06-20-2,4-dinitrophenol %})
 - [Named Entity Linking]({% post_url 2022-06-25-nel-in-python %})
 - [Creating a Knowledge Base for Named Entity Linking]({% post_url 2022-12-23-creating-a-knowledge-base-for-nel-in-python %})
 - [Dose-Response & Determining Causality]({% post_url 2022-05-18-bradford-hill-criteria %})
