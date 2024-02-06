@@ -4,12 +4,14 @@ tag: [computer science, lua]
 excerpt: Learning Lua for NVIM
 layout: post
 title: Learning Lua for NVIM
-modified: 2023-12-30
+modified: 2024-02-05
 ---
 
-I switched from Sublime Text to NVIM, inspired by Matt Might's suggestion to learn something new in Computer Science each year.
+I switched from [Sublime Text](https://www.sublimetext.com/) to [NVIM](https://neovim.io/), inspired by Matt Might's [suggestion](https://matt.might.net/articles/programmers-resolutions/) to learn something new in Computer Science each year.
 
 Lua plugins for NVIM are written in Lua, so I'm learning Lua.
+
+[Missing Semester](https://missing.csail.mit.edu/) mentioned [hammerspoon](https://www.hammerspoon.org/), which uses Lua to automate MacOS processes. 
 
 #### Useful links.
 
