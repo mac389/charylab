@@ -13,7 +13,7 @@ My **overarching goal** is to expand medical reasoning beyond the limits of huma
 1. How to represent *knowledge* from unstructured data in a computable format. Think of unstructured data as prose or poetry and structured data as an IRS form.
 1. How to represent *reasoning* in a computable format to get machines to transparently reason with a combination of prior knowledge and that inferrred from unstructured data. Think of how a physician interviews and examines a patient and then weighs his findings against prior knowledge to identify a diagnosis and treatment plan. 
 
-I use natural language processing, machine learning, and artificial intelligence to create computational versions of medical and scientific knowledge to allow computers to reason about medicine as experienced clinicians might. I have used social media as sandbox in which to develop tools to identify spatiotemporal patterns of substance use, disease exposure, and disease manifestation from unstructured data.  
+I use natural language processing, machine learning, and artificial intelligence to create computational versions of medical and scientific knowledge to allow computers to reason about medicine as experienced clinicians do. I use social media as sandbox in which I develop tools to extract health information from unstructured data.  
 
 **Current questions of interest** include: 
 - What are the usage patterns of use of novel psychoactive substances?

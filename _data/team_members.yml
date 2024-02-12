@@ -7,23 +7,8 @@
     - "Residency (Emergency Medicine, New York-Presbyterian/Queens) 2015-2018"
     - "MD/PhD (Mt. Sinai, New York City)"
 
-- name: Stefan Bartell
-  photo: rock.jpg
-  info: "Postdoc"
-  email: "stb4008 [at] med.cornell.edu"
-  education:
-    - "PhD (Linguistics): University of Delaware"
-
 - name: Joshua Chaz Rivera
   photo: rock.jpg
   info: "Visiting Scholar"
   education:
     - "BS (Mathematics, Linguistics): NYU"
-# - name: Jianfeng (Jacky) Ge
-#   photo: Jacky.jpg
-#   info: Postdoc, started Oct 2019
-#   email: ge@Physics.LeidenUniv.nl
-#   number_educ: 3
-#   education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-#   education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-#   education3: B.S. East China University of Science and Technology

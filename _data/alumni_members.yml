@@ -15,3 +15,8 @@
 #   education2:
 #   education3:
 #   education4:
+- name: Stefan Bartell
+  duration: 2 years
+  info: Computational Linguist
+  education:
+    - "PhD (Linguistics): University of Delaware"
