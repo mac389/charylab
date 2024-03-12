@@ -17,12 +17,14 @@
     - title: Geographic Variation of Opioid Usage
       url: /geo-opioid
     - title: Clinical Research
-      url: clinical-research
+      url: clinical_research
     - title: Lesser or Older Projects
       url: /lesser_older_projects
     - title: Onboarding
       url: /onboarding
+- title: INTOXICATE
+  url: /intoxicate
 - title: Notebooks
   url: /notebooks
-- title: Journal Club
-  url: /jc
+# - title: Journal Club
+#   url: /jc
