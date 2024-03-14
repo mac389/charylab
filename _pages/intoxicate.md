@@ -4,6 +4,8 @@ layout: textlay
 excerpt: "Chary Lab -- Research"
 sitemap: false
 permalink: /intoxicate/
+header-includes: 
+    - \usepackage{multicol}
 ---
 
 <head>
@@ -15,14 +17,28 @@ permalink: /intoxicate/
 </head>
 
 INTOXICATE
-
 #### Background 
 X Developed INTOXICATE to determine which poisoned patients need admission to the ICU/Stepdown unit. Below is the model. SBPS refers to systolic blood pressure. EMV refers to the Glasgow Coma Scale (eye, motor, verbal).
 
  $$ \textrm{risk} = \begin{bmatrix} -1.75 \\ -0.91398 \\ 0.25399 \\ 0.061925 \\ 0.162626 \\ -0.265 \\ -1.22151 \\ 0.325561 \\ 0.038357 \\ 0.014 \\ -0.02035 \\ -0.164725 \\ 1.527795 \\ 1.423788 \\ 0.983364 \\ 1.289260 \\  \end{bmatrix} \cdot 
 \begin{bmatrix} 1 \\ \textrm{alcohol} \\ \textrm{analgesic}\\ \textrm{antidepressant}\\ \textrm{street drug}\\ \textrm{sedative}\\ \textrm{poison}\\ \textrm{other}\\ \textrm{Age}\\ \textrm{Pulse}\\ \textrm{SBP}\\ \textrm{EMV}\\ \textrm{Respiratory insufficiency}\\ \textrm{Cirrhosis}\\ \textrm{Dysrhythmia}\\ \textrm{Second reason of ICU admission}\\ \end{bmatrix} $$ 
 
-#### Coding
+#### TODO
+**Important Dates**:
+1. NYACEP (Abstract Deadline 4/1/2024)
+1. HICSS (Abstract Deadline 6/15/2024)
+1. WCM Ressearch Day (April 5, 2024)
+
+
+```mermaid
+   graph LR
+    A --> B
+
+```
+
+
+#### Coding 
+
 
 | Coding Value  | Suspected intoxicant    |
 | :---------: | :------------: |
