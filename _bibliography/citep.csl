@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" default-locale="en-US">
+  <info>
+    <title>Natbib-like Parenthetical Citations</title>
+    <id>citep</id>
+  </info>
+  <citation disambiguate-add-names="true" disambiguate-add-givenname="true">
+    <layout delimiter="">
+      <text value="("></text>
+      <names variable="author">
+        <name form="short" delimiter=", " and="symbol" et-al-use-first="2" et-al-use-min="3"/>
+        <label form="long" prefix=" et al." strip-periods="true" delimiter=" "/>
+      </names>
+      <text value=", "></text>
+      <date variable="issued" form="text"/>
+      <text value=")"></text>
+    </layout>
+    <option name="et-al-min" value="3"/>
+    <option name="et-al-use-first" value="3"/>
+  </citation>
+</style>
+
