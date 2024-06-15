@@ -5,7 +5,7 @@ layout: post
 date: 2022-04-05
 tag: [classics]
 excerpt: Classical Reading List
-modified: 2023-12-12
+modified: 2024-05-24
 parse_block_html: true
 toc: true
 ---
@@ -90,6 +90,10 @@ _Jul 2022:_ I watched the Mythology & Fiction Explained [summary](https://www.yo
 #### De Rerum Natura
 
 _Jul 2023_ I started reading [The Way Things Are](https://www.amazon.com/Lucretius-Things-Rerum-Natura-Titus/dp/025320125X), an English translation of _De Rerum Natura_. I'm also listening to this [video series](https://www.youtube.com/watch?v=UMpFnAeFKn4&ab_channel=MonteJohnson) that analyzes ths book.
+
+#### Metamorphoses
+
+_May 2024_ I started reading [Humphrie's](https://iupress.org/9780253033598/metamorphoses/) and [Golding's](https://www.amazon.com/Ovids-Metamorphoses-Arthur-Golding-Translation/dp/0966491319) translations of Ovid's Metamorphoses. Humphrie's wrote the translation to _De Rerum Natura_ that I began to read last year. The podcast [Hardcore Literature](https://benjaminmcevoy.libsyn.com/) recommended the latter.
 
 ### Indian Classical Literature
 
