@@ -10,14 +10,8 @@
       url: /research
     - title: 2,4-dinitrophenol
       url: /dnp
-    - title: Herbal & Dietary Supplements
-      url: /hds
     - title: Morphosyntax
       url: /morphosyntax
-    - title: Geographic Variation of Opioid Usage
-      url: /geo-opioid
-    - title: Clinical Research
-      url: clinical_research
     - title: Lesser or Older Projects
       url: /lesser_older_projects
     - title: Onboarding
@@ -26,7 +20,7 @@
   url: /intoxicate
 - title: Jarvis
   url: /jarvis
+- title: EKGs
+  url: /ekg
 - title: Notebooks
   url: /notebooks
-# - title: Journal Club
-#   url: /jc
