@@ -1,9 +1,9 @@
 <div class="well">
-  <h4>Due Dates</h4>
+  <h4>Dates</h4>
 
-  {% for article in site.data.dates | sort:"date" %}
-  <a href="{{ article.link }}">{{ article.title }}</a>, (<b
-    >{{ article.date | date_to_string }}</b
+  {% for event in site.data.dates | future_dates | sort:"date" %}
+  <a href="{{ event.link }}">{{ event.title }}</a>, (<b
+    >{{ event.date | date_to_string }}</b
   >)<br />
   {% endfor %}
 </div>

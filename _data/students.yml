@@ -4,3 +4,18 @@
     - "Dalton High School"
   main_project: Named Entity Linking
   main_project_link:
+
+- name: Roland Zemla, MD PhD
+  info: "Resident (PGY-2)"
+  main_project: Named Entity Linking
+  main_project_link:
+
+- name: Aiden Peleg
+  info: MS1
+  main_project: INTOXICATE
+  main_project_link:
+
+- name: Eugene Borst, MD
+  info: "Resident (PGY-1)"
+  main_project: EKG
+  main_project_link:

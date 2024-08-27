@@ -1,11 +1,23 @@
 - name: Michael Chary
-  photo:  Chary.jpg
+  photo: Chary.jpg
   info: "Instructor"
   email: "mic9189 [at] med.cornell.edu"
   education:
     - "Fellow (Harvard Medical Toxicology Fellowship) 2018-2020"
     - "Residency (Emergency Medicine, New York-Presbyterian/Queens) 2015-2018"
     - "MD/PhD (Mt. Sinai, New York City)"
+
+- name: Caitlin House
+  photo: house.jpg
+  info: "Research Coordinator"
+  email: "cah4001 [at] med.cornell.edu"
+  education:
+
+- name: Svetlana Ross
+  photo: ross.jpg
+  info: "Research Coordinator"
+  email:
+  education:
 
 - name: Joshua Chaz Rivera
   photo: rock.jpg
