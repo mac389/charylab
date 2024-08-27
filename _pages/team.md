@@ -8,10 +8,6 @@ permalink: /team/
 
 # Group Members
 
-<!-- **We are hiring a staff scientist or lab tech with experience in applied mathematics or linguistics** ([Posting](https://career4.successfactors.com/career?career%5fns=job%5flisting&company=C0000274692P&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&site=VjItcmY2YVFFcnJMYWhIb3RmMzhTYU9Ldz09&career_job_req_id=61405&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=America/New_York&_s.crb=72qRUkH9U2GHu6eq2KFRSpEEpABNEMoArYE%2fp6iHMMM%3d">Posting){:target="_blank"}) -->
-
-**For [FACT]({% link _pages/fact_covid.md %}){:target="\_blank"}, I work with the Department of Emergency Medicine's [Research Associates](https://emed.weill.cornell.edu/research/research-associate-program){:target="\_blank"}**
-
 ## Staff
 
 {% assign number_printed = 0 %}

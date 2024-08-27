@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am an Instructor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). I create computable representations of medical reasoning and develop softwatre to extract knowledge from text, with a specific focus on substance usage.
+I am an Assistant Professor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). I model complex systems and create computable representations of medical reasoning and knowledge, with an interest in substeance use. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
         <ol class="carousel-indicators">
