@@ -16,4 +16,7 @@ modified: 2023-12-14
 
 1. [tabyls](https://nmrgroup.r-universe.dev/articles/janitor/tabyls.html)
 1. [3 tips for writing in RMD](https://www.njtierney.com/post/2018/02/28/three-r-tips/)
+1. [How to use Bookdown](https://bookdown.org/yihui/rmarkdown-cookbook/rmarkdown-anatomy.html#code-chunks)
+1. [RMD for Scientists](https://rmd4sci.njtierney.com/start)
+1. [RMD the definitive guide](https://bookdown.org/yihui/rmarkdown/)
 1. [Better heatmaps in R with pheatmap](https://r-charts.com/correlation/pheatmap/)

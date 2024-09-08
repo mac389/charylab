@@ -5,17 +5,12 @@ layout: post
 date: 2022-04-05
 tag: [classics]
 excerpt: Classical Reading List
-modified: 2024-05-24
+modified: 2024-08-11
 parse_block_html: true
 toc: true
 ---
 
-While Listening to the LRB Podcast I heard a promotion for a <a href="https://londonreviewbookbox.co.uk/products/close-readings-plus-among-the-ancients">guided tour through some Greek and Latin</a>. The offer cost too much. You pay for access to the podcasts and a new version of Emily Wilson's chosen editions. The idea, however, was attractive. This page chronicles my discovering the classics. Prior to this, I knew little about their content, less about their context, and even less about their influence.
-
-#### Table of Contents
-
-- TOC
-  {:toc}
+While Listening to the LRB Podcast in 2023, I heard a promotion for a <a href="https://londonreviewbookbox.co.uk/products/close-readings-plus-among-the-ancients">guided tour through some Greek and Latin</a>. The offer cost too much. You pay for access to the podcasts and a new version of Emily Wilson's chosen editions. The idea, however, was attractive. This page chronicles my discovering the classics. Prior to this, I knew little about their content, less about their context, and even less about their influence. In 2024, I gave in and subscribed to <a href="https://www.londonreviewbookshop.co.uk/booklists/close-readings-among-the-ancients">Among the Ancients</a>.
 
 #### General Knowledge.
 
@@ -50,6 +45,13 @@ _May 2023_ I am still fitfully reading Lattimore's translation and Wilcox's comm
 
 _Oct 2023_ I put aside Lattimore's translation and turned to <a href="https://www.amazon.com/Iliad-Homer/dp/1324001801/">Emily Wilson's</a>
 
+_Aug 2024_ LRB recommended the following articles:
+
+- [James Davidson: Like a Meteorite](https://www.lrb.co.uk/the-paper/v44/n16/james-davidson/like-a-meteorite)
+- [Colin Burrow: The Empty Bath](https://www.lrb.co.uk/the-paper/v44/n16/colin-burrow/the-empty-bath)
+- [Thomas Jones: Left with a Can Opener](https://www.lrb.co.uk/the-paper/v44/n16/thomas-jones/left-with-a-can-opener)
+- [Edward Luttwak: Homer Inc](https://www.lrb.co.uk/the-paper/v44/n16/edward-luttwak/homer-inc)
+
 **Next Steps**
 
 1. Learn about <a href="https://en.m.wikipedia.org/wiki/Troilus_and_Criseyde">Troilus and Criseyde</a>, one of Priam's sons whom Achilles killed. Chaucer wrote a play about him. An example of how the Middle Ages understood the myth of the Trojan war differently because they had additional primary sources. Like the Latin accounts of Dares and Dictys
@@ -63,6 +65,8 @@ _Mar 2022:_ I read <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&sour
 _Sep 2023:_ I read <a href="https://www.goodreads.com/book/show/59416521-ithaca">Ithaca</a> by Claire North, a tale of what Penelope did on Ithaca while waiting for Odysseus to return, told from Hera's point of view.
 
 _Oct 2023:_ I read <a href="https://www.amazon.com/ULYSSE-BAGDAD-Schmitt/dp/2846664765">Ulysse from Baghdad</a>, a modern adaptation of Ulysses told from the view point of Saad Saad, an Iraqi displaced after the Gulf War passing through Lampedusa to the UK.
+
+_Aug 2024_ I started reading <a href="https://www.amazon.com/Odyssey-translated-W-H-D-Rouse/dp/B0018HBI0K">W.H. D. Rouse's translation</a> of the Odyssey.
 
 #### Teleogony
 
