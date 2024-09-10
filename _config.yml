@@ -52,7 +52,7 @@ scholar:
   order: descending
   source: ./_bibliography
   bibliography: all-my-works.bib
-  csl: ./_data/citet.csl
+  csl: ./_bibliography/citet.csl
   bibliography_template: "{{ reference | replace_first: 'Chary, M.', '<b>Chary, M.</b>' }}"
   bibtex_filters:
     - latex
