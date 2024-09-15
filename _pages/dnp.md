@@ -35,6 +35,7 @@ parse_block_html: true
 - [Dose-Response & Determining Causality]({% post_url 2022-05-18-bradford-hill-criteria %})
 - [Social Media for Drug Development]({% post_url 2022-04-10-social-media-for-drug-discovery %})
 
+
 #### Related Presentations at Prior Conferences
 
 - [NAACT 2022]({% link pdfs/NAACT_2022.poster.pdf %}){:target="\_blank"} to our poster.
@@ -55,6 +56,7 @@ The FDA prohibited DNP for human consumption in 1938 {% cite yen2012toxicity --f
 1. Cross-reference those mentions with a knowledge base that represents what toxicologists know about the topic using [entity linking](.)
 1. (Future) Extract dosage from those posts.
 1. (Future) Generate hypotheses as to how the stated coingestants give rise to the stated effects or could otherwise be beneficial.
+
 
 ### References
 
