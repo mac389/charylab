@@ -21,3 +21,4 @@ modified: 2024-09-18
 1. [RMD the definitive guide](https://bookdown.org/yihui/rmarkdown/)
 1. [Better heatmaps in R with pheatmap](https://r-charts.com/correlation/pheatmap/)
 1. [Text Mining](https://bookdown.org/f_lennert/book-toolbox_css/text-mining.html#first-analyses-of-content)
+1. [Word embedding](https://s-ai-f.github.io/Natural-Language-Processing/Word-embeddings.html#word-embeddings-methods)
