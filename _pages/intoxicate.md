@@ -6,7 +6,9 @@ sitemap: false
 permalink: /intoxicate/
 ---
 
-> Thank you for coming to our presentation at NACCT 2024. [Link](../pdfs/NACCT.2024.poster.pdf){:target="\_blank"} to presentation. More info below.
+> Thank you for coming to our presentation at NACCT 2024. [Link](../pdfs/NACCT.2024.poster.pdf){:target="\_blank"} to presentation.
+Try our online calculator, [INTOXICALC](https://intoxicate-0f5e8cd152ab.herokuapp.com/){:target="\_blank"}. 
+
 
 #### INTOXICATE
 

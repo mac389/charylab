@@ -4,7 +4,7 @@ tag: [computer science, r]
 excerpt: Learning R
 layout: post
 title: Learning R
-modified: 2023-12-14
+modified: 2024-09-18
 ---
 
 ### Useful links
@@ -20,3 +20,4 @@ modified: 2023-12-14
 1. [RMD for Scientists](https://rmd4sci.njtierney.com/start)
 1. [RMD the definitive guide](https://bookdown.org/yihui/rmarkdown/)
 1. [Better heatmaps in R with pheatmap](https://r-charts.com/correlation/pheatmap/)
+1. [Text Mining](https://bookdown.org/f_lennert/book-toolbox_css/text-mining.html#first-analyses-of-content)
