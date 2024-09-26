@@ -5,7 +5,7 @@ layout: post
 date: 2022-07-05
 tag: [music, ukelele]
 excerpt: Learning Ukelele
-modified: 2024-08-11
+modified: 2024-09-24
 parse_block_html: true
 ---
 
@@ -18,7 +18,10 @@ parse_block_html: true
 **Ukelele Corner**
 
 1. [Sitting Position](https://ukulelecorner.com/far1/)
-
+1. [Playing Delta Blues](https://www.youtube.com/watch?v=q3II9UlRuQ0&t=123s&ab_channel=UkuleleCorner)
+1. [5 Scales to Practice](https://www.youtube.com/watch?v=2Bg7c2YYIe4&ab_channel=UkuleleCorner)
+1. [Hawai'i Pono'i](https://ukulelecorner.com/hawai%ca%bbi-pono%ca%bbi-for-high-g-ukulele/)
+1. [Simple Gifts](https://www.youtube.com/watch?v=Sqg8zw1lDe4&ab_channel=UkuleleCorner)
 ### The Books I've Used
 
 ### Etudes
@@ -28,3 +31,4 @@ parse_block_html: true
 ### Useful links
 
 1. [Ukelele Chord Generator](https://ukulelego.com/ukulele-chord-progressions/#f-a7-dm-f7-bb-bbm-f-c7)
+1. [Girl from Ipanema](https://ukuleleorchestra.org/handouts/summer2018/GirlFromIpanemaUkulele.pdf)

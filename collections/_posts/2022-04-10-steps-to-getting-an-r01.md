@@ -4,7 +4,7 @@ tag: [funding, biomedical research]
 excerpt: Steps to Getting an R01
 layout: post
 title: Steps to Getting an R01
-modified: 2023-03-12
+modified: 2024-09-21
 ---
 
 A few days ago I read <a href="https://www.nature.com/articles/s41390-022-02017-8">this article</a> that gives young researchers a 32-step guide on how to get federal funding. I summarize their paper in the below flowchart. I appreciate the detailed guidance the authors provide, but their proposal focusses on process while ignoring the cost on the individual and rarety of the appropriately fertile milieu.
@@ -28,5 +28,6 @@ flowchart TD
 		learnNewTechniques --> checkInnovation[Are Aims Still Innovative?]
 
 
-
 ```
+Links
+1. [Demystifing the Grant Process](https://oric.ehe.osu.edu/files/2022/02/focht.pdf)
