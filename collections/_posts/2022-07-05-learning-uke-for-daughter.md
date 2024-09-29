@@ -22,6 +22,7 @@ parse_block_html: true
 1. [5 Scales to Practice](https://www.youtube.com/watch?v=2Bg7c2YYIe4&ab_channel=UkuleleCorner)
 1. [Hawai'i Pono'i](https://ukulelecorner.com/hawai%ca%bbi-pono%ca%bbi-for-high-g-ukulele/)
 1. [Simple Gifts](https://www.youtube.com/watch?v=Sqg8zw1lDe4&ab_channel=UkuleleCorner)
+1. [24 Major Chords](https://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCorner)
 ### The Books I've Used
 
 ### Etudes
