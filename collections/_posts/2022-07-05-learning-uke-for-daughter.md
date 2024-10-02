@@ -24,6 +24,7 @@ parse_block_html: true
 1. [Simple Gifts](https://www.youtube.com/watch?v=Sqg8zw1lDe4&ab_channel=UkuleleCorner)
 1. [24 Major Chords](https://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCorner)
 1. [Left Hand Finger Stretch](https://www.youtube.com/watch?v=agyRuZdEfyc&ab_channel=UkuleleCorner)  (Watching: I; Doing Exercises: )
+1. [CAGED](https://www.youtube.com/watch?v=ejMokRD7G4o&ab_channel=UkuleleCorner)
 ### The Books I've Used
 
 ### Etudes
@@ -34,3 +35,9 @@ parse_block_html: true
 
 1. [Ukelele Chord Generator](https://ukulelego.com/ukulele-chord-progressions/#f-a7-dm-f7-bb-bbm-f-c7)
 1. [Girl from Ipanema](https://ukuleleorchestra.org/handouts/summer2018/GirlFromIpanemaUkulele.pdf)
+
+### Guitar ExerciseS
+1. [Warmup](https://www.youtube.com/watch?v=-ZIY1btdWdE&ab_channel=ClassicalGuitarCorner)
+1. [7 Best Exercises](https://www.youtube.com/watch?v=lD5BuNcdn1Y&ab_channel=ClassicalGuitarCorner)
+1. [Prelude by M. Carcassi](https://www.youtube.com/watch?v=gIBhrnaj9Ok&ab_channel=ClassicalGuitarCorner)
+1. [Hill Country Rhythm](https://www.youtube.com/watch?v=L6MPCQjfDKQ)

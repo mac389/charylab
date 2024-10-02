@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-I am an Assistant Professor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). I model complex systems and create computable representations of medical reasoning and knowledge, with an interest in substeance use. 
+> The most beautiful thing we can experience is the mysterious. It is the source of all true art and science. -- Albert Einstein 
+
+I am an Assistant Professor in Emergency Medicine and Medical Toxicology at [Weill Cornell Medical College](https://weill.cornell.edu/). I model complex systems and create computable representations of medical reasoning and knowledge, with an interest in substance use. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
         <ol class="carousel-indicators">
