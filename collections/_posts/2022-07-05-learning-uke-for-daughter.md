@@ -24,7 +24,7 @@ parse_block_html: true
 1. [Simple Gifts](https://www.youtube.com/watch?v=Sqg8zw1lDe4&ab_channel=UkuleleCorner)
 1. [24 Major Chords](https://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCorner)
 1. [Left Hand Finger Stretch](https://www.youtube.com/watch?v=agyRuZdEfyc&ab_channel=UkuleleCorner)  (Watching: I; Doing Exercises: )
-1. [CAGED](https://www.youtube.com/watch?v=ejMokRD7G4o&ab_channel=UkuleleCorner)
+1. [CAGED](https://www.youtube.com/watch?v=ejMokRD7G4o&ab_channel=UkuleleCorner), [YT playlist](https://www.youtube.com/watch?v=D-3xTtnyUME&list=PL48BXDtoK7Pscl_RwWViMw3n88YjEp55Z&pp=iAQB)
 ### The Books I've Used
 
 ### Etudes
@@ -35,3 +35,5 @@ parse_block_html: true
 
 1. [Ukelele Chord Generator](https://ukulelego.com/ukulele-chord-progressions/#f-a7-dm-f7-bb-bbm-f-c7)
 1. [Girl from Ipanema](https://ukuleleorchestra.org/handouts/summer2018/GirlFromIpanemaUkulele.pdf)
+1. [Ahe Lau Makani](https://www.youtube.com/watch?v=rfrvc9k2mFU&ab_channel=LukeWillson), [link to arranger](https://www.danielho.com/physical-shop?category=Hawaiian)
+1. [Somewhere Over the Rainbow](https://ukuleleunderground.com/2010/05/uke-lesson-7-somewhere-over-the-rainbow/), [another version](https://www.youtube.com/shorts/X0881Ynmu7U)
