@@ -35,9 +35,3 @@ parse_block_html: true
 
 1. [Ukelele Chord Generator](https://ukulelego.com/ukulele-chord-progressions/#f-a7-dm-f7-bb-bbm-f-c7)
 1. [Girl from Ipanema](https://ukuleleorchestra.org/handouts/summer2018/GirlFromIpanemaUkulele.pdf)
-
-### Guitar ExerciseS
-1. [Warmup](https://www.youtube.com/watch?v=-ZIY1btdWdE&ab_channel=ClassicalGuitarCorner)
-1. [7 Best Exercises](https://www.youtube.com/watch?v=lD5BuNcdn1Y&ab_channel=ClassicalGuitarCorner)
-1. [Prelude by M. Carcassi](https://www.youtube.com/watch?v=gIBhrnaj9Ok&ab_channel=ClassicalGuitarCorner)
-1. [Hill Country Rhythm](https://www.youtube.com/watch?v=L6MPCQjfDKQ)

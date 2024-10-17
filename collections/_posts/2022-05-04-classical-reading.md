@@ -119,3 +119,6 @@ Summary from [Mythology & Fiction Explained](https://www.youtube.com/watch?v=-dS
 ### Other Roman Authors (Might Not Belong in a Page on Epics)
 
 1. Sallustius' <a href="https://www.uq.edu.au/hprcflex/lt2310/sallust6.htm">Bellum Catalinae</a>.
+
+1. [Greek Myths](https://www.argos-didaskei.com/2024/05/29/aesops-fables-%cf%80%ce%b1%cf%84%e1%bd%b4%cf%81-%cf%85%e1%bc%b1%e1%bd%b8%cf%82-%ce%ba%ce%b1%e1%bd%b6-%e1%bd%84%ce%bd%ce%bf%cf%82-father-son-and-donkey/)
+1. [Spreadsheet for Learning Greek](https://docs.google.com/spreadsheets/d/16s3pOejAXaUvQ-WCYmFrXo2cnKsl2j0efCrothCp3Y4/edit?gid=0#gid=0)

@@ -1,0 +1,24 @@
+---
+title: Learning Classical Guitar
+author: Michael Chary
+layout: post
+date: 2024-10-07
+tag: [music, ukelele]
+excerpt: Learning Classical Guitar
+modified: 2024-10-07
+parse_block_html: true
+---
+
+### When I Bought a Ukelele
+
+
+**2024**. I revived my classical guitar playing.  
+
+### Guitar Exercises
+1. [Warmup](https://www.youtube.com/watch?v=-ZIY1btdWdE&ab_channel=ClassicalGuitarCorner)
+1. [7 Best Exercises](https://www.youtube.com/watch?v=lD5BuNcdn1Y&ab_channel=ClassicalGuitarCorner)
+1. [Prelude by M. Carcassi](https://www.youtube.com/watch?v=gIBhrnaj9Ok&ab_channel=ClassicalGuitarCorner)
+1. [Hill Country Rhythm](https://www.youtube.com/watch?v=L6MPCQjfDKQ)
+1. [Functional Anatomy for Guitarists](https://www.youtube.com/watch?v=QXnnOqxGGNQ&ab_channel=DavidGalvez) & [Part 2](https://www.youtube.com/watch?v=g9YFGtB8ZUA)
+1. [Lefthand Technique](https://youtube.com/watch?v=9YO037sT32k&ab_channel=MerceFont) (I)
+1. [How to Hold Guitar](https://www.youtube.com/watch?v=dYC9awwT_YQ&ab_channel=ThisisClassicalGuitar) (I)
