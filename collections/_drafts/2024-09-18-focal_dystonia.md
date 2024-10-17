@@ -20,3 +20,5 @@ tag: [dystonia]
 1. [Physical Therapy for Focal Dystonia](https://www.youtube.com/watch?v=8T03h3eGi5o)
 1. [Voice to Code](https://www.youtube.com/watch?v=YKuRkGkf5HU&ab_channel=StrangeLoopConference)
 1. [How long did it take to recover?](https://www.youtube.com/watch?v=b0XsxR5Cyi8&ab_channel=TheMindfulPianist)
+1. [Mindful Pianist](https://www.themindfulpianist.com/videos)
+1. [Anatomy-Based Retraining](https://pubmed.ncbi.nlm.nih.gov/34176657/)
