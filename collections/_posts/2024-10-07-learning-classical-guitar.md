@@ -26,3 +26,4 @@ parse_block_html: true
 1. [How to Hold Guitar](https://www.youtube.com/watch?v=dYC9awwT_YQ&ab_channel=ThisisClassicalGuitar) (I)
 1. [First Steps to Finger Independence](https://www.youtube.com/watch?v=HCSHRb9X3_I&ab_channel=MerceFont) 
 1. [Random L Hand Exercise](https://www.youtube.com/watch?v=F-30ZAlj4J8&ab_channel=BeatrixKov%C3%A1cs)
+1. [5 Common Classical Guitar Mistakes](https://www.youtube.com/watch?v=PFum1C-W7p8&ab_channel=ClassicalGuitarCorner)
