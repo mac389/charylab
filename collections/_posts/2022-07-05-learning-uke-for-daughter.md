@@ -37,3 +37,5 @@ parse_block_html: true
 1. [Girl from Ipanema](https://ukuleleorchestra.org/handouts/summer2018/GirlFromIpanemaUkulele.pdf)
 1. [Ahe Lau Makani](https://www.youtube.com/watch?v=rfrvc9k2mFU&ab_channel=LukeWillson), [link to arranger](https://www.danielho.com/physical-shop?category=Hawaiian)
 1. [Somewhere Over the Rainbow](https://ukuleleunderground.com/2010/05/uke-lesson-7-somewhere-over-the-rainbow/), [another version](https://www.youtube.com/shorts/X0881Ynmu7U)
+1. [Jeff Peterson, Na Mele](https://www.youtube.com/watch?v=RAA7OL0DNiI&ab_channel=PBSHawai%CA%BBi)
+1. [Bluesy Riff](https://ukulelemagazine.com/lessons/bluesy-ukulele-arrangement-careless-lovehttps://ukulelemagazine.com/lessons/bluesy-ukulele-arrangement-careless-love)
