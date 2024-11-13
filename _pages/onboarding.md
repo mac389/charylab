@@ -12,7 +12,7 @@ This page outlines the skills I think one needs to be productive in my lab. {% c
 
 #### My Overall Philosphy.
 
-Science educates humanity[^1]. The practice of science is intellectually fulfilling and gives sempeternal benefits for humanity. The business of science is controlled by scientifically illiterate or indifferent administrative nabobs who commoditize ideas as they did the wool from a spinning jenny. Scientists forsook their independence long ago by relying on others to foot the bill[^2]. Science as a career is a chimera, part avocation and part courtesanship[^3]. To succeed in modern science one needs luck, grit, realpolitik, talent, and intellectual honesty, in that order.
+Science educates humanity[^1]. The practice of science is intellectually fulfilling and gives sempeternal benefits for humanity. The business of science is controlled by scientifically illiterate or indifferent administrative nabobs who treat research as a commodity. Scientists forsook their independence long ago by relying on others to foot the bill[^2]. Science as a career is a chimera, part avocation and part courtesanship[^3]. To succeed in modern science one needs luck, grit, realpolitik, talent, and intellectual honesty, in that order.
 
 I strive to create a lab where people join because they are interested and inspired in joining me on a mutual voyage of discovery. I expect those working with me not to misrepresent their talents or interests to get a spot nor to phone anything in[^4]. This expectation comes because I think interesting things happen when smart creative people are given the license to be freely productive and partly because I don't have the bandwidth or inclination to micromanage.
 
