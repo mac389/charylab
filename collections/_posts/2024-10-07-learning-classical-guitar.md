@@ -28,5 +28,5 @@ parse_block_html: true
 1. [Random L Hand Exercise](https://www.youtube.com/watch?v=F-30ZAlj4J8&ab_channel=BeatrixKov%C3%A1cs)
 1. [5 Common Classical Guitar Mistakes](https://www.youtube.com/watch?v=PFum1C-W7p8&ab_channel=ClassicalGuitarCorner)
 1. [4 Daily Left Hand Exercises](https://www.youtube.com/watch?v=CLzU0PxW_YI&ab_channel=MerceFont)
-1. [Classical Guitar Handbook](https://www.thisisclassicalguitar.com/free-classical-guitar-method-book-pdf/)
+1. [Classical Guitar Handbook](https://www.thisisclassicalguitar.com/free-classical-guitar-method-book-pdf/) and [website](https://www.thisisclassicalguitar.com/20-favorite-exercises-for-classical-guitar/)
 1. [Asturia](https://www.classicalguitarcorner.com/asturias-leyenda-workshop/)

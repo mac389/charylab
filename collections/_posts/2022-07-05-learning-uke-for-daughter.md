@@ -5,7 +5,7 @@ layout: post
 date: 2022-07-05
 tag: [music, ukelele]
 excerpt: Learning Ukelele
-modified: 2024-09-24
+modified: 2024-12-15
 parse_block_html: true
 ---
 
@@ -25,6 +25,14 @@ parse_block_html: true
 1. [24 Major Chords](https://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCornerhttps://www.youtube.com/watch?v=BtfjTlKf9ew&ab_channel=UkuleleCorner)
 1. [Left Hand Finger Stretch](https://www.youtube.com/watch?v=agyRuZdEfyc&ab_channel=UkuleleCorner)  (Watching: I; Doing Exercises: )
 1. [CAGED](https://www.youtube.com/watch?v=ejMokRD7G4o&ab_channel=UkuleleCorner), [YT playlist](https://www.youtube.com/watch?v=D-3xTtnyUME&list=PL48BXDtoK7Pscl_RwWViMw3n88YjEp55Z&pp=iAQB)
+1. [How to Barre](https://www.youtube.com/watch?v=z4tel0V8rl8&ab_channel=UkuleleCorner)
+1. [Ukelele Corner live session on finger exercises](https://www.youtube.com/watch?v=vYuiLTtwKco&ab_channel=UkuleleCorner)
+1. [UCA Live: Scarborough Fair](https://ukulelecorner.com/forums/topic/hallelujah-and-scarborough-fair-7-9-23-live-lesson-replay/)
+
+
+### Videos from Ukelele Magazine
+1. [Chopsticks with Benny Chong](https://ukulelemagazine.com/lessons/chopsticks-learn-efficient-chord-movement-with-benny-chongs-jazz-arrangement-for-reentrant-baritone) and [backstory](https://ukulelemagazine.com/stories/benny-chong-can-do-it-all#A-Lesson-with-Benny-Chong) and [more backstory](https://ukulelemagazine.com/stories/benny-chong-can-do-it-all)
+1. 
 ### The Books I've Used
 
 ### Etudes
@@ -39,3 +47,6 @@ parse_block_html: true
 1. [Somewhere Over the Rainbow](https://ukuleleunderground.com/2010/05/uke-lesson-7-somewhere-over-the-rainbow/), [another version](https://www.youtube.com/shorts/X0881Ynmu7U)
 1. [Jeff Peterson, Na Mele](https://www.youtube.com/watch?v=RAA7OL0DNiI&ab_channel=PBSHawai%CA%BBi)
 1. [Bluesy Riff](https://ukulelemagazine.com/lessons/bluesy-ukulele-arrangement-careless-lovehttps://ukulelemagazine.com/lessons/bluesy-ukulele-arrangement-careless-love)
+1. [Fred Sokolow, Remember Me (Coco)](https://ukulelemagazine.com/lessons/fred-sokolow-chord-melody-remember-me-from-coco) and [his book](https://store.ukulelemag.com/products/movie-songs-for-solo-fingerstyle-ukulele)
+1. [Good Ukulele Position](https://ukulelemagazine.com/lessons/a-beginners-guide-to-good-ukulele-technique)
+1. [Daniel Ward](https://danielward.net/)
