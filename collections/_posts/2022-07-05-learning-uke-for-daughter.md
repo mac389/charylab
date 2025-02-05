@@ -28,17 +28,18 @@ parse_block_html: true
 1. [How to Barre](https://www.youtube.com/watch?v=z4tel0V8rl8&ab_channel=UkuleleCorner)
 1. [Ukelele Corner live session on finger exercises](https://www.youtube.com/watch?v=vYuiLTtwKco&ab_channel=UkuleleCorner)
 1. [UCA Live: Scarborough Fair](https://ukulelecorner.com/forums/topic/hallelujah-and-scarborough-fair-7-9-23-live-lesson-replay/)
+1. [Sor Study No. 25](https://www.youtube.com/watch?v=Asc_oaX4kNo&ab_channel=UkuleleCorner)
 
 
 ### Videos from Ukelele Magazine
 1. [Chopsticks with Benny Chong](https://ukulelemagazine.com/lessons/chopsticks-learn-efficient-chord-movement-with-benny-chongs-jazz-arrangement-for-reentrant-baritone) and [backstory](https://ukulelemagazine.com/stories/benny-chong-can-do-it-all#A-Lesson-with-Benny-Chong) and [more backstory](https://ukulelemagazine.com/stories/benny-chong-can-do-it-all)
-1. 
+1. [Jazz on a uke](https://ukulelemagazine.com/lessons/how-to-play-jazz-on-your-ukulele-a-primer) 
 ### The Books I've Used
 
 ### Etudes
 
 1. [Etude op 44. No .2](https://ukulelego.com/wp-content/uploads/2018/01/4.-Etude-op.44-No.2-Sor.pdf) by Fernando Sor.
-
+1. [Gnoissienne No. 1](https://www.youtube.com/watch?v=jZ41BBsOtJk&ab_channel=UkuleleCorner) by Erik Satie.
 ### Useful links
 
 1. [Ukelele Chord Generator](https://ukulelego.com/ukulele-chord-progressions/#f-a7-dm-f7-bb-bbm-f-c7)
@@ -49,4 +50,5 @@ parse_block_html: true
 1. [Bluesy Riff](https://ukulelemagazine.com/lessons/bluesy-ukulele-arrangement-careless-lovehttps://ukulelemagazine.com/lessons/bluesy-ukulele-arrangement-careless-love)
 1. [Fred Sokolow, Remember Me (Coco)](https://ukulelemagazine.com/lessons/fred-sokolow-chord-melody-remember-me-from-coco) and [his book](https://store.ukulelemag.com/products/movie-songs-for-solo-fingerstyle-ukulele)
 1. [Good Ukulele Position](https://ukulelemagazine.com/lessons/a-beginners-guide-to-good-ukulele-technique)
-1. [Daniel Ward](https://danielward.net/)
+1. [Daniel Ward](https://danielward.net/), and his pentatonic [lesson](https://ukulelemagazine.com/lessons/daniel-ward-blues-lesson-explore-different-blues-forms-using-the-same-pentatonic-lick)
+

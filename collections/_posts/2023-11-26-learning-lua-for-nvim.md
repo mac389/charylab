@@ -18,6 +18,7 @@ Lua plugins for NVIM are written in Lua, so I'm learning Lua.
 1. [NVIM & R integration](https://www.freecodecamp.org/news/turning-vim-into-an-r-ide-cd9602e8c217/)
 2. [How to write](https://www.linode.com/docs/guides/write-a-neovim-plugin-with-lua/) a Lua plugin.
 3. [Lua Snips](https://ejmastnak.com/tutorials/vim-latex/luasnip/#loading), and tutorial [part 1](https://evesdropper.dev/files/luasnip/) and [part 2](https://evesdropper.dev/files/luasnip/choice-dynamic/)
+4. [Musical Notation in Lua](https://github.com/martineausimon/nvim-lilypond-suite)
 
 #### YouTube tutorials.
 

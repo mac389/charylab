@@ -13,7 +13,7 @@ title: The Chary Lab
 email: mac389@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Computational Toxiology, and (Nearly) Everything is Toxicology
-url: "mac389.github.io"
+url: "https://mac389.github.io"
 baseurl: ""
 pdf2svg: "/usr/local/Cellar/pdf2svg"
 
@@ -75,6 +75,7 @@ collections_dir: collections
 collections:
   podcasts:
     output: true
+    permalink: /podcasts/:path/
   scientific_notes:
     output: true
 

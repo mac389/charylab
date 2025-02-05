@@ -3,6 +3,8 @@ title: Mistletoe Toxicity (Episode 1)
 author: Michael Chary
 layout: post
 date: 2022-12-15
+file: /sounds/O_Tannenbaum.m4a
+duration: 30
 modified: 2022-12-15
 tag: [the toxicologist, mistletoe] 
 excerpt: There are two type of mistletoe
@@ -21,3 +23,8 @@ The American version causes GI upset (nasuea, abdominal cramps and diarrhea). Th
 
 #### Toxic vs Harmful
 Medical toxicologists use the term __toxic__ to mean, essentially, something they need to treat, a substance that has a deleterious effect on the body that will not work itself out with time and stopping exposure to the harmful substance. 
+
+<audio controls>
+  <source src="{% link {{ page.file }} %}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>

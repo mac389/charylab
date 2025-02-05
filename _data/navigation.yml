@@ -8,19 +8,21 @@
   sublinks:
     - title: Contribution to Science
       url: /research
-    - title: 2,4-dinitrophenol
-      url: /dnp
+    # - title: 2,4-dinitrophenol
+    #   url: /dnp
     - title: Morphosyntax
       url: /morphosyntax
-    - title: Lesser or Older Projects
-      url: /lesser_older_projects
+    # - title: Lesser or Older Projects
+    #   url: /lesser_older_projects
     - title: Onboarding
       url: /onboarding
-- title: INTOXICATE
-  url: /intoxicate
-- title: Jarvis
-  url: /jarvis
-- title: EKGs
-  url: /ekg
+    - title: INTOXICATE
+      url: /intoxicate
+    - title: Jarvis
+      url: /jarvis
+    - title: EKGs
+      url: /ekg
+- title: Podcasts
+  url: /podcasts
 - title: Notebooks
   url: /notebooks

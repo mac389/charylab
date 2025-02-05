@@ -71,12 +71,14 @@ _Aug 2024_ I started reading <a href="https://www.amazon.com/Odyssey-translated-
 
 _Sep 2024_ I read Ezra Pound's [Canto 1](https://www.poetryfoundation.org/poems/54314/canto-i), which I found while reading an excerpt from [Homer in English](https://www.amazon.com/Homer-English-Poets-Translation-Penguin/dp/0140446214/ref=sr_1_1?crid=8NNPWHHKHM4Q&dib=eyJ2IjoiMSJ9.brpPp5wyVmO-4eW_sYF4O5CI9_v5L3GrxuQWn1zMB6keH41dVxfcgnOvtAAB20rrxIVr4nQR8HPh84PbQuxEbaZlnrtin8ePDVFz8U1BhazJQ5VprdNaUCKWEP9xvbTZ6D8wECZIJuuXJ25VNu1eiYQPV7YP1V2ZjgOVtaVs7u8jffeY7CViRp3vGcgqMtUoqrRyHT1KLPiVEq9Rky_9hS2q6gf38XNoEHJ6ZiVj6Mc.YrCa6KiKMYtKDwG760aLV5ftW3v3DEVnkYcwFd7EM0k&dib_tag=se&keywords=homer+in+translation&qid=1726973914&sprefix=homer+in+translation%2Caps%2C139&sr=8-1). Here is a nice [video analysis](https://www.youtube.com/watch?v=eTjMqcnXmII&ab_channel=Edmund)
 
+_Dec 2024_ I read [Homer and His Iliad](https://www.amazon.com/Homer-His-Iliad-Robin-Lane/dp/1541600444/), which explores the historical context of the Iliad and the Odyssey. It also helped to explain the significance of objects and actions whose meaning has changed. 
+
 Further Pound Reading: 
 - [ABC of Reading](https://monoskop.org/images/a/a4/Pound_Ezra_ABC_of_Reading.pdf)
 - [Homeric Hymn to Aphrodite](https://www.uh.edu/~cldue/texts/aphrodite.html)
 - [Hugh Selwyn Mauberley](https://www.poetryfoundation.org/poems/57317/hugh-selwyn-mauberley) and [part 1](https://www.poetryfoundation.org/poems/44915/hugh-selwyn-mauberley-part-i), [audio recording](https://www.youtube.com/watch?v=mZ3uBTCsG_4&list=PL8qKJsefnorVw9VqG9z1VdNqlQCTgfcN5&index=7&ab_channel=PeterVickers) 
 - [The Seafarer](https://www.poetryfoundation.org/poems/44917/the-seafarer)
-
+- [Alberto Manguel on the History of the Iliad and Odessey](https://archive.org/details/homersiliadodyss0000mang), _ante lectionem_ seems similar to Robin Lane Fox's [book](https://www.amazon.com/Homer-His-Iliad-Robin-Lane/dp/1541600444).
 #### Teleogony
 
 #### Aeneid

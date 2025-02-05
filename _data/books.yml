@@ -174,3 +174,39 @@
   date_finished: Dec 12, 2024
   author: "Barbara Kingsolver"
   url: https://www.amazon.com/Demon-Copperhead-Novel-Barbara-Kingsolver/dp/0063251981
+- title: "Orbital"
+  date_finished: Dec 20, 2024
+  author: "Samantha Harvey"
+  url: https://www.amazon.com/gp/product/0802163629/
+  notes: I found the book too slow and the characters not engaging. Her writing is lyrical but, to me, it felt like it was trying too hard to be poetic.
+- title: "Homer and His Iliad"
+  date_finished: Dec 24, 2024
+  author: "Robin Lane Fox"
+  url: https://www.amazon.com/Homer-His-Iliad-Robin-Fox/dp/0143125269
+- title: "Queens of Themyscira"
+  date_finished: Dec 28, 2024
+  author: "Hannah Lynn"
+  url: https://amazon.com/Queens-Themiscyra-enthralling-fearsome-daughters-ebook/dp/B09D774V4Z
+- title: "Song of Sacrifice"
+  date_finished: Jan 2, 2025
+  url: https://www.amazon.com/Song-Sacrifice-Homeric-Chronicles-Book-ebook/dp/B07HY1FSWC
+  author: "Janell Rhiannon"
+  notes: "This book, for me, lacked substance. It explored superficially the very interesting topics of the relationships between Achilles and Oenone and Priam and Hecuba. All the males were portrayed as one-dimensional as the women in the Iliad."
+- title: "Ariadne's Crown"
+  date_finished: Jan 5, 2025
+  url: https://www.amazon.com/Ariadnes-Crown-Meadoe-Hora-ebook/dp/B07XVTTGB9/
+  author: "Meadoe Hora"
+  notes: "This book was so poorly written that I could not finish it. Just not my style. It underscored <a href='https://benjaminmcevoy.com/' target='_blank'>Ben McEvoy's</a> admonition to avoid the literary equivalent of junk food. Other writers have done better with this material."
+  stopped_reading: true
+- title: "Andromeda"
+  date_finished: Jan 21, 2025
+  url: https://www.amazon.com/Andromeda-Nebula-Ivan-Yefremov/dp/1497377730/
+  author: "Ivan Yefremov"
+  notes: "This was a fantastic book."
+- title: "The Year of Reading Dangerously: How Fifty Great Books (and Two Not-So-Great Ones) Saved My Life"
+  date_finished: Jan 25, 2025
+  author: "Andy Miller"
+  url: https://www.amazon.com/Year-Reading-Dangerously-Fifty-Not-So-Great-ebook/dp/B00IHZM2RY 
+  notes: "This book was a rambling memoir. Not a good discussion of the books or juxtaposition of their themes with modern life."
+  stopped_reading: true
+

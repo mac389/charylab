@@ -30,3 +30,5 @@ parse_block_html: true
 1. [4 Daily Left Hand Exercises](https://www.youtube.com/watch?v=CLzU0PxW_YI&ab_channel=MerceFont)
 1. [Classical Guitar Handbook](https://www.thisisclassicalguitar.com/free-classical-guitar-method-book-pdf/) and [website](https://www.thisisclassicalguitar.com/20-favorite-exercises-for-classical-guitar/)
 1. [Asturia](https://www.classicalguitarcorner.com/asturias-leyenda-workshop/)
+1. [Time Management Templates](https://www.classicalguitarcorner.com/classical-guitar-practice-sessions/)
+1. [Early Renaissance Dance](https://www.youtube.com/watch?v=oXUz4i00f6s&ab_channel=ClassicalGuitarCorner)

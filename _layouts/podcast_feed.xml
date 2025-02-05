@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- _layouts/podcast_feed.xml -->
+<rss version="2.0"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <title>{{ site.data.podcast_metadata.title }}</title>
+  <link>{{ site.data.podcast_metadata.url }}</link>
+  <description>{{ site.data.podcast_metadata.description
+  }}</description>
+  <language>{{ site.data.podcast_metadata.language }}</language>
+  <itunes:author>{{ site.data.podcast_metadata.author
+  }}</itunes:author>
+  <itunes:summary>Put summary here</itunes:summary>
+  <atom:link href='{{ "podcast.xml" | absolute_url }}' rel="self"
+  type="application/rss+xml" />
+  <itunes:image href="{{ site.url }}/images/{{ site.data.podcast_metadata.image | xml_escape }}" />
+  <itunes:category text="{{ site.data.podcast_metadata.category | xml_escape }}" />
+  <itunes:explicit>{{ site.data.podcast_metadata.explicit
+  }}</itunes:explicit>{% for podcast in site.podcasts %} {% unless
+  podcast.url contains 'outline' or podcast.url contains 'xml' or
+  podcast.outline %} 
+  <item>
+    <title>{{ podcast.title }}</title>
+    <itunes:author>{{ podcast.author }}</itunes:author>
+    <itunes:summary>{{ podcast.summary | escape }}</itunes:summary>
+    <description>
+      <![CDATA[{{ podcast.description }}]]>
+</description>
+    <pubDate>{{ podcast.date | date_to_rfc822 }}</pubDate>
+    <guid>{{ podcast.title | uuid: podcast.date }}</guid>
+    <itunes:image href="{{ podcast.image | prepend: site.baseurl | prepend: site.url }}" />
+    <enclosure url="{{ podcast.file | prepend: site.baseurl | prepend: site.url }}"
+    type="audio/mpeg" length="{{ podcast.duration }}" />
+    <itunes:duration>{{ podcast.duration }}</itunes:duration>
+  </item>{% endunless %} {% endfor %}</channel>
+</rss>
