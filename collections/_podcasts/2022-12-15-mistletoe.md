@@ -11,7 +11,7 @@ excerpt: There are two type of mistletoe
 outline: false
 ---
 
-Points: 
+#### BLUF: 
 1. There are two types of mistletoe (European is harmful, American isn't)
 1. Distinguish between toxic and harmful, all will give GI effects (articles)
 1. History of mistletoe?

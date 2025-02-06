@@ -24,9 +24,9 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <title>{{ podcast.title }}</title>
     <itunes:author>{{ podcast.author }}</itunes:author>
     <itunes:summary>{{ podcast.summary | escape }}</itunes:summary>
-    <description>
+    <itunes:description>
       <![CDATA[{{ podcast.description }}]]>
-</description>
+</itunes:description>
     <pubDate>{{ podcast.date | date_to_rfc822 }}</pubDate>
     <guid>{{ podcast.title | uuid: podcast.date }}</guid>
     <itunes:image href="{{ podcast.image | prepend: site.baseurl | prepend: site.url }}" />

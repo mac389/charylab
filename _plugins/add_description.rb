@@ -27,7 +27,7 @@ module Jekyll
         description = "<p>#{description_content}</p>" ? description_content : ''
 
         @arr = [description,
-                "Notes for this episode: #{site.config['url']}#{doc.url}.html",
+                "Notes for this episode: #{site.config['url']}#{doc.url}",
                 "My Research Webpage: #{site.config['url']}"]
 
         yaml_data['description'] = @arr.join('<br>')
