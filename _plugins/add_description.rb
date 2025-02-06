@@ -18,24 +18,18 @@ module Jekyll
         # Extract Markdown body (Jekyll automatically separates it)
         markdown_body = doc.content
 
-        # Extract the description section using a regular expression
-        # Match all "####" headers (4th-level headers)
         headers = markdown_body.scan(/^####\s+(.+)/).flatten
-        puts headers
         headers.pop if headers.last == 'References' # Remove the last header if it's 'References'
 
-        # Convert headers into an HTML ordered list
         description_content = "<ol>\n" +
                               headers.map { |header| "  <li>#{header}</li>" }.join("\n") +
                               "\n</ol>"
         description = "<p>#{description_content}</p>" ? description_content : ''
 
-        # Update the YAML front matter with the extracted description
-
-        @arr = ["My Research Webpage: #{site.config['url']}",
+        @arr = [description,
                 "Notes for this episode: #{site.config['url']}#{doc.url}.html",
-                '<br><br>In Brief:',
-                description]
+                "My Research Webpage: #{site.config['url']}"]
+
         yaml_data['description'] = @arr.join('<br>')
 
         # No need to manually reconstruct the file because Jekyll handles it automatically
