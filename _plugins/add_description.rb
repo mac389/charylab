@@ -19,8 +19,16 @@ module Jekyll
         markdown_body = doc.content
 
         # Extract the description section using a regular expression
-        description_content = markdown_body.match(/## Summary(.*?)##/m)
-        description = description_content ? description_content[1].strip : 'No description found'
+        # Match all "####" headers (4th-level headers)
+        headers = markdown_body.scan(/^####\s+(.+)/).flatten
+        puts headers
+        headers.pop if headers.last == 'References' # Remove the last header if it's 'References'
+
+        # Convert headers into an HTML ordered list
+        description_content = "<ol>\n" +
+                              headers.map { |header| "  <li>#{header}</li>" }.join("\n") +
+                              "\n</ol>"
+        description = "<p>#{description_content}</p>" ? description_content : ''
 
         # Update the YAML front matter with the extracted description
 

@@ -7,7 +7,7 @@ version="1.0" default-locale="en-US">
   </info>
   <citation disambiguate-add-names="true"
   disambiguate-add-givenname="true">
-    <layout delimiter="," prefix="(" suffix=")">
+    <layout delimiter=",&#8239;" prefix="(" suffix=")">
       <names variable="author">
         <name form="short" delimiter="," and="symbol" />
         <et-al term="et al." et-al-use-first="2" et-al-min="3" />
