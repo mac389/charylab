@@ -77,7 +77,7 @@ collections:
     output: true
     permalink: /podcasts/:path/
   scientific_notes:
-    output: true
+    output: false
 
 defaults:
   - scope:

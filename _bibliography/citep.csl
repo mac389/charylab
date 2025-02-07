@@ -9,8 +9,12 @@ version="1.0" default-locale="en-US">
   disambiguate-add-givenname="true">
     <layout delimiter=",&#8239;" prefix="(" suffix=")">
       <names variable="author">
-        <name form="short" delimiter="," and="symbol" />
-        <et-al term="et al." et-al-use-first="2" et-al-min="3" />
+        <name form="short" delimiter="," and="symbol"
+        initialize-with=".">
+          <name-part name="family" />
+          <name-part name="given" />
+        </name>
+        <et-al term="et al." et-al-use-first="1" et-al-min="3" />
       </names>
       <date variable="issued" form="text" />
     </layout>
