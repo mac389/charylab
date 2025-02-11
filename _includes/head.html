@@ -28,6 +28,8 @@
     content="3MYPLcVtIrIJAq-zUX83Yq9dvsLEhvtcq3ea8GktHTs"
   />
   <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico" />
+ 
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
   <script
     async
@@ -38,6 +40,7 @@
   <link rel="stylesheet" href='{{ "/css/" | }}{{ layout.style }}.css' />
   {% endif %}
 
+  <script src="{{ '/js/sidenotes.js' | prepend: site.baseurl }}"></script>
   <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}" />
   {% if jekyll.environment == 'production' %} {% include analytics.html %} {%
   endif %}
