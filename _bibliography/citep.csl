@@ -14,7 +14,7 @@ version="1.0" default-locale="en-US">
           <name-part name="family" />
           <name-part name="given" />
         </name>
-        <et-al term="et al." et-al-use-first="1" et-al-min="3" />
+        <et-al term="et al." et-al-use-first="2" et-al-min="3" />
       </names>
       <date variable="issued" form="text" />
     </layout>
