@@ -7,7 +7,7 @@ version="1.0" default-locale="en-US">
   </info>
   <citation disambiguate-add-names="true"
   disambiguate-add-givenname="true">
-    <layout delimiter=",&#8239;" prefix="(" suffix=")">
+    <layout delimiter="," prefix="(" suffix=")">
       <names variable="author">
         <name form="short" delimiter="," and="symbol"
         initialize-with=".">
