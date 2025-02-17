@@ -4,9 +4,9 @@ class="in-text">
   <info>
     <title>Nat Bib</title>
     <updated>2024-01-25T00:00:00+00:00</updated>
-  </info>
-  <citation>
-    <layout prefix="(" suffix=")" delimiter=";">
+  <citation disambiguate-add-names="true"
+  disambiguate-add-givenname="true">
+    <layout delimiter=", " prefix="(" suffix=")">
       <names variable="author">
         <name form="long" and="text" delimiter=","
         initialize-with=".">
