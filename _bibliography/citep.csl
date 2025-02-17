@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text"
-version="1.0" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0"
+class="in-text">
   <info>
-    <title>Natbib-like Parenthetical Citations</title>
-    <id>citep</id>
+    <title>Nat Bib</title>
+    <updated>2024-01-25T00:00:00+00:00</updated>
   </info>
-  <citation disambiguate-add-names="true"
-  disambiguate-add-givenname="true">
-    <layout delimiter=",&#8239;" prefix="(" suffix=")">
+  <citation>
+    <layout prefix="(" suffix=")" delimiter=";">
       <names variable="author">
-        <name form="short" delimiter="," and="symbol"
+        <name form="long" and="text" delimiter=","
         initialize-with=".">
-          <name-part name="family" />
-          <name-part name="given" />
+          <name-part name="family" text-case="capitalize-first" />
         </name>
-        <et-al term="et al." et-al-use-first="2" et-al-min="3" />
+        <et-al min="3" use-first="2" />
+        <label form="short" prefix="," />
+        <substitute>
+          <names variable="editor" />
+          <names variable="translator" />
+        </substitute>
       </names>
-      <date variable="issued" form="text" />
+      <date variable="issued">
+        <date-part name="year" />
+      </date>
     </layout>
   </citation>
 </style>
