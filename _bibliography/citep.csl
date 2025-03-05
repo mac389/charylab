@@ -4,15 +4,15 @@ class="in-text">
   <info>
     <title>Nat Bib</title>
     <updated>2024-01-25T00:00:00+00:00</updated>
-  <citation disambiguate-add-names="true"
-  disambiguate-add-givenname="true">
-    <layout delimiter=", " prefix="(" suffix=")">
+    <id>http://www.zotero.org/styles/nature</id>
+  </info>
+  <citation>
+    <layout delimiter="," prefix="(" suffix=")">
       <names variable="author">
         <name form="long" and="text" delimiter=","
-        initialize-with=".">
+        initialize-with="." et-al-min="3" et-al-use-first="2">
           <name-part name="family" text-case="capitalize-first" />
         </name>
-        <et-al min="3" use-first="2" />
         <label form="short" prefix="," />
         <substitute>
           <names variable="editor" />
