@@ -18,7 +18,7 @@ module Jekyll
         # Extract Markdown body (Jekyll automatically separates it)
         markdown_body = doc.content
 
-        headers = markdown_body.scan(/^####\s+(.+)/).flatten
+        headers = markdown_body.scan(/^#\s+(.+)/).flatten
         headers.pop if headers.last == 'References' # Remove the last header if it's 'References'
 
         description_content = "<ol>\n" +
