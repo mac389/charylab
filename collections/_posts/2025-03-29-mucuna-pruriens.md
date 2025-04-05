@@ -13,7 +13,9 @@ permalink: /mucuna-pruriens/
 > Thank you for viewing our [poster]({% link pdfs/2025.acmt.macuna.pdf %}){:target="\_blank"} at #ACMT2025. 
 
 ### TLDR
+ - Discussions on Reddit about Mucuna pruriens (MP) are mainly about its use for self-treatment of Parkinson's Disease (PD) and self-diagnosis. 
 
+- Infrequent discussion of side effects or interactions with other medications, but frequent mention of the lack of regulation of herbal and dietary supplements (HDS) leading to unreliable dosing.
 
 ### Introduction
 
@@ -24,10 +26,31 @@ permalink: /mucuna-pruriens/
 - We have shown online forums as a valid source of information on substance usage2,3. 
 - Analysis of discussions in online forums may  identify reasons for HDS use and non-adherence to standard therapy
 
+     A[Comments(n=13.612 [12.039 unique])] --> B[Mentioning L-DOPA (n=688)]
+     A --> C[Mentioning MP (n=28)]
+
+
 ### Methods
+```mermaid
 
+   graph TD
+     A["Comments \n(n=13,612; 12,039 unique)"] --> B["Mentioning L-DOPA (n=688)"] & C["Mentioning MP (n=28)"]
+    B --> D["Unique & mentioning\n direct use of L-DOPA (n=688)"]
+    C --> E["Unique & mentioning\n direct use of MP (n=25)"]
+```
 
+     
+__Data Acquisition.__ Author MC wrote custom software in R and Python to extract all comments and posts from the subreddit r/Parkinson’s from the start of the subreddit to January 2025. The software is available on GitHub at LINK. 
+
+__Data Preprocessing.__ We manually standardized comments, replacing brand names with generic names, expanded abbreviations, and corrected misspellings. We counted multiple identical posts by one user as one comment. 
+
+__Data Analysis.__
+
+_Perception._  We manually labelled each comment for (1) mentioning MP, (2) mentioning L-DOPA, (3) if the experience was positive, negative, neither, or both. 
+
+_Thematic Analysis._ We conducted two rounds of qualitative analysis to identify themes in the post and then group post and comments by theme.
 ### Results 
 
 
 ### Conclusions 
+
