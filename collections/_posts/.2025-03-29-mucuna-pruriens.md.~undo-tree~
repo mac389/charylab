@@ -1,0 +1,33 @@
+(undo-tree-save-format-version . 1)
+"fb60053d1bddc57f4ed85c20ef2119586ad6cf43"
+[nil nil nil nil (26609 49108 121683 0) 0 nil]
+([nil nil ((#("<<<<<<< HEAD
+" 0 1 (face smerge-markers smerge-refine-part (14 . 2) fontified t) 1 13 (face smerge-markers fontified t)) . 566) (undo-tree-id10 . -11) (undo-tree-id11 . -12) (undo-tree-id12 . -12) (undo-tree-id13 . -12) (undo-tree-id14 . -12) 577 (t 26609 48782 209717 634000)) nil (26609 49108 121682 0) 0 nil])
+([nil nil ((#("=======
+>>>>>>> a4735c2dfc2f258ef1a1005facb94279bfbd281c
+" 0 7 (fontified t) 7 8 (fontified t) 8 57 (fontified t)) . 764) (undo-tree-id6 . -14) (undo-tree-id7 . -14) (undo-tree-id8 . -6) (undo-tree-id9 . -14) 778) nil (26609 49108 121675 0) 0 nil])
+([nil nil ((#("<<<<<<< HEAD
+     A[Comments(n=13.612 [12.039 unique])] --> B[Mentioning L-DOPA (n=688)]
+     A --> C[Mentioning MP (n=28)]
+
+=======
+
+The _overall goall_ of this study is to: 
+
+- Is Macuna pruriens perceived as more effective or tolerable than pharmaceutical L-DOPA?
+- What circumstances that lead people to use MP-containing supplements?
+>>>>>>> a4735c2dfc2f258ef1a1005facb94279bfbd281c
+" 0 13 (face smerge-markers fontified t) 13 125 (face (smerge-upper) fontified t) 125 132 (face smerge-markers fontified t) 132 133 (face nil fontified t) 133 339 (face (smerge-lower) fontified t) 339 388 (face smerge-markers fontified t)) . 1492) (undo-tree-id2 . -345) (undo-tree-id3 . -345) (undo-tree-id4 . -6) (undo-tree-id5 . -345) 1837) nil (26609 49108 121670 0) 0 nil])
+([nil nil ((#("<<<<<<< HEAD
+" 0 13 (face smerge-markers fontified t)) . 1517)) nil (26609 49108 121666 0) 0 nil])
+([nil nil ((#("<<<<<<< HEAD
+" 0 13 (face smerge-markers fontified t)) . 3566)) nil (26609 49108 121665 0) 0 nil])
+([nil nil ((#("=======
+" 0 7 (fontified t) 7 8 (fontified t)) . 3566)) nil (26609 49108 121664 0) 0 nil])
+([nil nil ((#(">>>>>>> a4735c2dfc2f258ef1a1005facb94279bfbd281c
+" 0 49 (fontified t)) . 3651)) nil (26609 49108 121663 0) 0 nil])
+([nil nil ((#(">>>>>>> a4735c2dfc2f258ef1a1005facb94279bfbd281c
+" 0 49 (fontified t)) . 3337)) nil (26609 49108 121662 0) 0 nil])
+([nil nil ((3337 . 3338)) nil (26609 49108 121661 0) 0 nil])
+([nil current ((nil rear-nonsticky nil 2839 . 2840) (nil fontified nil 2786 . 2840) (2786 . 2840) (#("LINK" 0 4 (fontified t)) . 2786) (undo-tree-id0 . -4) (undo-tree-id1 . -3)) nil (26609 49108 121658 0) 0 nil])
+nil
