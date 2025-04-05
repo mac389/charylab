@@ -38,7 +38,7 @@ permalink: /mucuna-pruriens/
 ```
 
      
-__Data Acquisition.__ Author MC wrote custom software in R and Python to extract all comments and posts from the subreddit r/Parkinson’s from the start of the subreddit to January 2025. The software is available on GitHub at LINK. 
+__Data Acquisition.__ Author MC wrote custom software in R and Python to extract all comments and posts from the subreddit r/Parkinson’s from the start of the subreddit to January 2025. The software is available on GitHub at https://github.com/mac389/abortifacient_misinformation.git. 
 
 __Data Preprocessing.__ We manually standardized comments, replacing brand names with generic names, expanded abbreviations, and corrected misspellings. We counted multiple identical posts by one user as one comment. 
 
@@ -47,26 +47,35 @@ __Data Analysis.__
 _Perception._  We manually labelled each comment for (1) mentioning MP, (2) mentioning L-DOPA, (3) if the experience was positive, negative, neither, or both. 
 
 _Thematic Analysis._ We conducted two rounds of qualitative analysis to identify themes in the post and then group post and comments by theme.
-=======
-**Data Acquisition**. Author MC wrote custom software in R and Python to extract all comments and posts from the subreddit r/Parkinson’s from the start of the subreddit to January 2025. The software is available on GitHub at https://github.com/mac389/abortifacient_misinformation. 
+**Data Acquisition**. Author MC wrote custom software in R and Python to extract all comments and posts from the subreddit r/Parkinson’s from the start of the subreddit to January 2025. The software is available on <a href="https://github.com/mac389/abortifacient_misinformation" target="_blank">GitHub</a>.
 
 **Data Preprocessing**. We manually standardized comments, replacing brand names with generic names, expanded abbreviations, and corrected misspellings. We counted multiple identical posts by one user as one comment. 
 
 **Data Analysis**. 
 Perception.  We manually labelled each comment for (1) mentioning MP, (2) mentioning L-DOPA, (3) if the experience was positive, negative, neither, or both. 
 
-**Thematic Analysis**. We conducted two rounds of qualitative analysis to identify themes in the post and then group post and comments by theme.
 
 ### Results 
 
-```mermaid
-graph TD
-  A[Data Acquisition] --> B[Data Preprocessing]
-  B --> C[Data Analysis]
-  C --> D[Perception]
-  C --> E[Thematic Analysis]
-```
 ### Conclusions 
+Users discuss the benefits, risks, and motivations for using MP in online forums.
+
+Users turn to Mucuna:
+- To self-diagnose or self-treat while waiting to see a Parkinson’s specialist
+- From dissatisfaction with pharmaceutical levodopa
+- To supplement their pharmaceutical regimens for better control of symptoms 
+
+The doses discussed of L-DOPA via MP are generally lower than L-DOPA via pharmaceuticals
+
+Many comments discuss pharmacological properties and theoretical effects, not personal use
+
+_Next Steps_.  
+- Prospective observational cohort with testing of samples, like {% cite  cohen2022levodopa --file {{ page.bibliography }} -s apa %}.
+ but with assessment of effect using Unified Parkinson's Disease Rating Scale.
+
+- Similar study across multiple forums
+
+- Analysis of other compounds in MP that may potentiate L-DOPA or have disease-modifying effects
 
 
 ### References 
