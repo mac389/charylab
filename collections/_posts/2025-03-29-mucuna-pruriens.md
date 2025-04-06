@@ -49,6 +49,31 @@ _Thematic Analysis._ We conducted two rounds of qualitative analysis to identify
 
 ### Results 
 
+<table>
+  <tr>
+    <th colspan="2"> Fisher's exact test<br>P=0.384</td>
+    <th colspan="3"> Sentiment</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>Positive</td>
+    <td>Negative</td>
+    <td>Neither</td>
+  </tr>
+  <tr>
+    <td>Substance</td>
+    <td>MP</td>
+    <td>6</td>
+    <td>4</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Substance</td>
+    <td>L-DOPA</td>
+    <td>258</td>
+    <td>85</td>
+    <td>345</td>
+</table>
 
 ### Conclusions 
 Users discuss the benefits, risks, and motivations for using MP in online forums.
