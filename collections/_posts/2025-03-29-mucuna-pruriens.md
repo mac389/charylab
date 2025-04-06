@@ -36,17 +36,6 @@ permalink: /mucuna-pruriens/
     B --> D["Unique & mentioning\n direct use of L-DOPA (n=688)"]
     C --> E["Unique & mentioning\n direct use of MP (n=25)"]
 ```
-
-     
-__Data Acquisition.__ Author MC wrote custom software in R and Python to extract all comments and posts from the subreddit r/Parkinson’s from the start of the subreddit to January 2025. The software is available on GitHub at https://github.com/mac389/abortifacient_misinformation.git. 
-
-__Data Preprocessing.__ We manually standardized comments, replacing brand names with generic names, expanded abbreviations, and corrected misspellings. We counted multiple identical posts by one user as one comment. 
-
-__Data Analysis.__
-
-_Perception._  We manually labelled each comment for (1) mentioning MP, (2) mentioning L-DOPA, (3) if the experience was positive, negative, neither, or both. 
-
-_Thematic Analysis._ We conducted two rounds of qualitative analysis to identify themes in the post and then group post and comments by theme.
 **Data Acquisition**. Author MC wrote custom software in R and Python to extract all comments and posts from the subreddit r/Parkinson’s from the start of the subreddit to January 2025. The software is available on <a href="https://github.com/mac389/abortifacient_misinformation" target="_blank">GitHub</a>.
 
 **Data Preprocessing**. We manually standardized comments, replacing brand names with generic names, expanded abbreviations, and corrected misspellings. We counted multiple identical posts by one user as one comment. 
@@ -54,8 +43,12 @@ _Thematic Analysis._ We conducted two rounds of qualitative analysis to identify
 **Data Analysis**. 
 Perception.  We manually labelled each comment for (1) mentioning MP, (2) mentioning L-DOPA, (3) if the experience was positive, negative, neither, or both. 
 
+_Perception._  We manually labelled each comment for (1) mentioning MP, (2) mentioning L-DOPA, (3) if the experience was positive, negative, neither, or both. 
+
+_Thematic Analysis._ We conducted two rounds of qualitative analysis to identify themes in the post and then group post and comments by theme.
 
 ### Results 
+
 
 ### Conclusions 
 Users discuss the benefits, risks, and motivations for using MP in online forums.
