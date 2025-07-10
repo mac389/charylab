@@ -6,8 +6,7 @@ sitemap: false
 permalink: /intoxicate/
 ---
 
-> Thank you for coming to our presentation at NACCT 2024. [Link](../pdfs/NACCT.2024.poster.pdf){:target="\_blank"} to presentation.
-Try our online calculator, [INTOXICALC](https://intoxicate-0f5e8cd152ab.herokuapp.com/){:target="\_blank"}. 
+> Try our online calculator, [INTOXICALC](https://intoxicate-0f5e8cd152ab.herokuapp.com/){:target="\_blank"}. 
 
 
 #### INTOXICATE
@@ -42,6 +41,10 @@ Ultimately, we think that INTOXICATE could be useful as part of a suite of clini
 #### Related Notebooks
  - [Computable Phenotypes]({% post_url 2021-04-03-computable-phenotypes %})
 
+#### Scientific Output
+- [NACCT 2024](../pdfs/NACCT.2024.poster.pdf){:target="\_blank"}.
+- [EAPCCT 2025](../pdfs/2025.eapcct.intoxicate.pdf){:target="\_blank"}.
+- [INTOXICALC](https://intoxicate-0f5e8cd152ab.herokuapp.com/){:target="\_blank"}. 
 
 #### Works Cited
 

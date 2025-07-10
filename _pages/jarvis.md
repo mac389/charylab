@@ -7,7 +7,8 @@ permalink: /jarvis/
 parse_html_block: false
 ---
 
-> Thank you for listening to my talk at ACMT. Here are the [slides](../pdfs/2024.acmt.presentation.jarvis.pdf){:target="\_blank"}. Please check out the rest of my [research](/research/)
+> Thank you for viewing my poster at EAPCCT. Here is a [digital copy](../pdfs/2025.eapcct.jarvis.pdf){:target="\_blank"} of the poster.
+
 
 #### Introduction
 
@@ -15,7 +16,12 @@ Social media provide a ubiquitous and readily accessible stream of real-world da
 
 A key limitation of these analyses is that they do not assess whether the variables under study causally interact. A crucial element of pharmacological investigations is the dose-response curve, which provides phenomenological evidence that a substance mediates a certain effect. If we could extract dose-effect associations from social media, we could directly compare these real-world data with those from more controlled investigations and, ultimately, infer results about substance efficacy from real-world data with the confidence now reserved for controlled trials.
 
-The goal of this project is to develop a method that extracts dosage information from social media.
+- Despite therapy, many individuals with opioid use disorder relapse. 
+- __Online commentary offers real-world data on self-treatment and may identify therapeutics that other approaches overlook.__
+- Distinguishing plausible online claims from implausible ones remains a __key challenge__. 
+- We previously developed Jarvis, software that extracts drug names, dosages, and effects from online commentary. 
+- Here, we __extend Jarvis__ to identify substances described specifically to treat opioid withdrawal.
+
 
 #### Introducing Jarvis
 

@@ -51,8 +51,8 @@ _Thematic Analysis._ We conducted two rounds of qualitative analysis to identify
 
 <table>
   <tr>
-    <th colspan="2"> Fisher's exact test<br>P=0.384</td>
-    <th colspan="3"> Sentiment</td>
+    <th colspan="2"> Fisher's exact test<br>P=0.384</th>
+    <th colspan="3"> Sentiment</th>
   </tr>
   <tr>
     <td colspan="2"></td>
@@ -73,9 +73,12 @@ _Thematic Analysis._ We conducted two rounds of qualitative analysis to identify
     <td>258</td>
     <td>85</td>
     <td>345</td>
+  </tr>
 </table>
 
+
 ### Conclusions 
+
 Users discuss the benefits, risks, and motivations for using MP in online forums.
 
 Users turn to Mucuna:
