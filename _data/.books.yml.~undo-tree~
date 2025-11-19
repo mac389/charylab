@@ -1,16 +1,12 @@
 (undo-tree-save-format-version . 1)
-"37324881854cd1fe3a08b7c5174ea518170feb03"
-[nil nil nil nil (26868 50942 811912 0) 0 nil]
+"3e0cc620f9973a2919bcaa6bc17bfbb0d646083e"
+[nil nil nil nil (26909 63312 410682 0) 0 nil]
 ([nil nil ((#("<<<<<<< HEAD
-" 0 1 (face smerge-markers smerge-refine-part (15 . 2) fontified t) 1 13 (face smerge-markers fontified t)) . 11871) (undo-tree-id22 . -2) (undo-tree-id23 . -2) (undo-tree-id24 . -2) (undo-tree-id25 . -2) (undo-tree-id26 . 10) (undo-tree-id27 . -2) (undo-tree-id28 . -2) (undo-tree-id29 . -2) (undo-tree-id30 . -2) (undo-tree-id31 . -2) (undo-tree-id32 . -2) 11873 (t 26868 50913 427930 413000)) nil (26868 50942 811911 0) 0 nil])
-([nil nil ((#("=======
-" 0 7 (fontified t) 7 8 (fontified t)) . 12084) (undo-tree-id17 . -2) (undo-tree-id18 . -2) (undo-tree-id19 . -2) (undo-tree-id20 . -2) (undo-tree-id21 . -2) 12086) nil (26868 50942 811901 0) 0 nil])
-([nil nil ((#(">>>>>>> 8ae90e753e1b5285aa17ac2dd97fc23d57db573a
-" 0 49 (fontified t)) . 12318) (undo-tree-id12 . -2) (undo-tree-id13 . -2) (undo-tree-id14 . -2) (undo-tree-id15 . -2) (undo-tree-id16 . -2) 12320) nil (26868 50942 811895 0) 0 nil])
-([nil nil ((#("- title: \"Unworthy\"
-  author: \"Agustina Bazterrica\"
-  date_finished: Jul 8, 2025
-  notes: \"This was a great and lyrical read. I think I will read it in Spanish. I imagine there is subtext I missed on a first read and in translation.\"
-" 0 19 (fontified t) 19 20 (fontified t) 20 234 (fontified t)) . 12084) (undo-tree-id0 . -81) (undo-tree-id1 . -81) (undo-tree-id2 . -81) (undo-tree-id3 . -19) (undo-tree-id4 . -2) (undo-tree-id5 . -2) (undo-tree-id6 . -234) (undo-tree-id7 . -234) (undo-tree-id8 . -234) (undo-tree-id9 . -234) (undo-tree-id10 . -81) (undo-tree-id11 . -81)) nil (26868 50942 811889 0) 0 nil])
-([nil current ((11871 . 12105)) nil (26868 50942 811867 0) 0 nil])
+" 0 1 (face smerge-markers smerge-refine-part (15 . 2) fontified t) 1 13 (face smerge-markers fontified t)) . 13878) (t 26909 63290 949507 959000)) nil (26909 63312 410667 0) 0 nil])
+([nil nil ((#("
+  
+=======
+" 0 4 (fontified t) 4 11 (fontified t) 11 12 (fontified t)) . 14385) (undo-tree-id0 . -11) (undo-tree-id1 . -11)) nil (26909 63312 410644 0) 0 nil])
+([nil current ((#(">>>>>>> afa877f848a86d4945d03b35bb7201e920da4a19
+" 0 49 (fontified t)) . 14528)) nil (26909 63312 410593 0) 0 nil])
 nil
