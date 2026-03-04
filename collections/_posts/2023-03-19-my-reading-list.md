@@ -5,7 +5,7 @@ layout: post
 date: 2023-03-20
 tag: [literature]
 excerpt: My Reading List
-modified: 2025-11-02
+modified: 2026-01-20
 parse_block_html: true
 ---
 
@@ -28,10 +28,14 @@ My list of books I've read, with marginalia.
 
 ### Books That I Remember When I Read Them
 
-{% for book in with_date %} - [{{ book.title }}]({{ book.url }}) by {{ book.author }} {% if book.date_finished %} _({% if book.stopped_reading %}Stopped {% else %}Finished {% endif %}{{ book.date_finished | date: "%-d %B %Y" }})_ {% endif %}
+{% for book in with_date %} 
+<li> [{{ book.title }}]({{ book.url }}) by {{ book.author }} {% if book.date_finished %} _({% if book.stopped_reading %}Stopped {% else %}Finished {% endif %}{{ book.date_finished | date: "%-d %B %Y" }})_ {% endif %}
+
 {% if book.notes %}
 <b>Notes: </b>{{ book.notes }}
 {% endif %}
+
+</li>
 {% endfor %}
 
 ### Books That I Don't Remember When I Read Them
@@ -41,3 +45,5 @@ My list of books I've read, with marginalia.
 <b>Notes: </b>{{ book.notes }}
 {% endif %}
 {% endfor %}
+
+### Books I Previewed But Didn't Buy
