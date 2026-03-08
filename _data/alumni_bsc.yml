@@ -10,3 +10,9 @@
     - "Dalton High School"
   main_project: Latent Representation of Chemical Spaces
   main_project_link: /ann_latent_reps_drugs
+- name: Jai Kapoor
+  info: High School Student
+  education:
+    - "Dalton High School"
+  main_project: Named Entity Linking
+  main_project_link:
