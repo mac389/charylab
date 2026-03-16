@@ -10,6 +10,8 @@
       url: /research
     # - title: 2,4-dinitrophenol
     #   url: /dnp
+    - title: Misinformation
+      url: /misinformation
     - title: Morphosyntax
       url: /morphosyntax
     # - title: Lesser or Older Projects
@@ -20,8 +22,8 @@
       url: /intoxicate
     - title: Jarvis
       url: /jarvis
-    - title: EKGs
-      url: /ekg
+    # - title: EKGs
+    #   url: /ekg
 - title: Podcasts
   url: /podcasts
 - title: Notebooks
