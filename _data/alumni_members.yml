@@ -20,3 +20,21 @@
   info: Computational Linguist
   education:
     - "PhD (Linguistics): University of Delaware"
+
+- name: Caitlin House
+  photo: house.jpg
+  info: "Research Coordinator"
+  email: "cah4001 [at] med.cornell.edu"
+  education:
+
+- name: Svetlana Ross
+  photo: ross.jpg
+  info: "Research Coordinator"
+  email:
+  education:
+
+- name: Joshua Chaz Rivera
+  photo: rock.jpg
+  info: "Visiting Scholar"
+  education:
+    - "BS (Mathematics, Linguistics): NYU"

@@ -1,0 +1,10 @@
+(undo-tree-save-format-version . 1)
+"e241dc5e83d1cdb8e03f59ef7ccd75b0a5f76111"
+[nil nil nil nil (27053 58924 226078 0) 0 nil]
+([nil nil ((#("=======
+modified: 2026-01-20
+>>>>>>> 9c868adbf4fd760c4fc0c4cfc9087887e8502028
+" 0 7 (face smerge-markers fontified t) 7 8 (face nil fontified t) 8 29 (face (smerge-lower) fontified t) 29 78 (face smerge-markers fontified t)) . 157) (undo-tree-id0 . -77) (undo-tree-id1 . -77) (t 27053 58897 753096 18000)) nil (27053 58924 226077 0) 0 nil])
+([nil current ((#("<<<<<<< HEAD
+" 0 1 (face smerge-markers smerge-refine-part (12 . 2) fontified t) 1 13 (face smerge-markers fontified t)) . 123)) nil (27053 58924 226064 0) 0 nil])
+nil

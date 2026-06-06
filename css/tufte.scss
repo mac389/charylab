@@ -3,96 +3,116 @@
 # only Main files contain this front matter, not partials.
 nav_exclude: true
 ---
+
+@use "../_sass/fonts";
+@use "../_sass/settings" as *;
+@use "../_sass/syntax-highlighting";
+@use "sass:color";
+
 /*****************************************************************************/
 /*
 /* Tufte Jekyll blog theme
-/* Based on Tufte CSS by Dave Liepmann ( https://github.com/edwardtufte/tufte-css )
-/*
-/* The README.md will show you how to set up your site along with other goodies
+/* Based on Tufte CSS by Dave Liepmann
 /*****************************************************************************/
 
-// Imports to create final
+* {
+  margin: 0;
+  padding: 0;
+}
 
-@import "../_sass/fonts";
-@import "../_sass/settings";
-@import "../_sass/syntax-highlighting";
-
-// Global Resets
-//
-* { margin: 0; padding: 0; }
-
-/* clearfix hack after Cederholm (group class name) */
-.group:after {
+.group::after {
   content: "";
   display: table;
   clear: both;
 }
 
-html, body { height: 100%; }
+html,
+body {
+  height: 100%;
+}
 
-// First significant deviation from CSS on tufte.css site - variable font size as browser width expands or contracts
-//html { font-size: 15px; }
+html {
+  text-align: baseline;
+  font-size: 11px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
-html{
-    text-align: baseline;
-    font-size: 11px;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+@media screen and (min-width: 800px) {
+  html { font-size: 12px; }
+}
 
-  }
+@media screen and (min-width: 900px) {
+  html { font-size: 13px; }
+}
 
-@media screen and (min-width: 800px){ html{ font-size: 12px;} }
+@media screen and (min-width: 1000px) {
+  html { font-size: 14px; }
+}
 
-@media screen and (min-width: 900px){ html{ font-size: 13px;} }
+@media screen and (min-width: 1100px) {
+  html { font-size: 15px; }
+}
 
-@media screen and (min-width: 1000px){ html{ font-size: 14px;} }
+@media screen and (min-width: 1200px) {
+  html { font-size: 16px; }
+}
 
-@media screen and (min-width: 1100px){ html{ font-size: 15px; } }
+@media screen and (min-width: 1300px) {
+  html { font-size: 17px; }
+}
 
-@media screen and (min-width: 1200px){ html{ font-size: 16px; } }
-
-@media screen and (min-width: 1300px){ html{ font-size: 17px; } }
-
-// Mathjax fonts need TLC
-.mjx-math{
+.mjx-math {
   font-size: 1.3rem;
 }
-// sets link style according to values in _settings.scss
+
 a {
   color: $contrast-color;
   text-decoration: none;
 }
 
-p > a, cite > a, span > a { @if $link-style == underline
-    {
-      color: $text-color;
-      text-decoration: none;
-      background: -webkit-linear-gradient($bg-color, $bg-color), -webkit-linear-gradient($bg-color, $bg-color), -webkit-linear-gradient(currentColor, currentColor);
-      background: linear-gradient($bg-color, $bg-color), linear-gradient($bg-color, $bg-color), linear-gradient(currentColor, currentColor);
-      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-repeat: no-repeat, no-repeat, repeat-x;
-      text-shadow: 0.03em 0 $bg-color, -0.03em 0 $bg-color, 0 0.03em $bg-color, 0 -0.03em $bg-color, 0.06em 0 $bg-color, -0.06em 0 $bg-color, 0.09em 0 $bg-color, -0.09em 0 $bg-color, 0.12em 0 $bg-color, -0.12em 0 $bg-color, 0.15em 0 $bg-color, -0.15em 0 $bg-color;
-      background-position: 0% 93%, 100% 93%, 0% 93%; 
-    }
-    @else
-    {
-      color: $contrast-color;
-      text-decoration: none;
-    }
+p > a,
+cite > a,
+span > a {
+  @if $link-style == underline {
+    color: $text-color;
+    text-decoration: none;
+    background:
+      linear-gradient($bg-color, $bg-color),
+      linear-gradient($bg-color, $bg-color),
+      linear-gradient(currentColor, currentColor);
+    background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+    background-repeat: no-repeat, no-repeat, repeat-x;
+    background-position: 0 93%, 100% 93%, 0 93%;
+    text-shadow:
+      0.03em 0 $bg-color,
+      -0.03em 0 $bg-color,
+      0 0.03em $bg-color,
+      0 -0.03em $bg-color,
+      0.06em 0 $bg-color,
+      -0.06em 0 $bg-color,
+      0.09em 0 $bg-color,
+      -0.09em 0 $bg-color,
+      0.12em 0 $bg-color,
+      -0.12em 0 $bg-color,
+      0.15em 0 $bg-color,
+      -0.15em 0 $bg-color;
+  } @else {
+    color: $contrast-color;
+    text-decoration: none;
   }
+}
 
-body { width: 87.5%;
-       margin-left: auto;
-       margin-right: auto;
-       padding-left: 12.5%;
-       font-family: $body-font;
-       background-color: $bg-color;
-       color: $text-color;
-       max-width: 1400px;
-       counter-reset: sidenote-counter; }
-
+body {
+  width: 87.5%;
+  margin-inline: auto;
+  padding-left: 12.5%;
+  max-width: 1400px;
+  font-family: $body-font;
+  background-color: $bg-color;
+  color: $text-color;
+  counter-reset: sidenote-counter;
+}
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
 
@@ -196,8 +216,10 @@ table, table.booktabs { width: auto;  //making booktabs style tables the unstyle
 th, td{ font-size: 1.2rem;
         line-height: 1.71428571;  }
 
-.booktabs th.cmid, th { border-bottom: 1px solid lighten($border-color, 25%); }
-
+.booktabs th.cmid,
+th {
+  border-bottom: 1px solid color.adjust($border-color, $lightness: 25%);
+}
 .booktabs th.nocmid { border-bottom: none; }
 
 .booktabs tbody tr:first-child td,  tr:first-child td { padding-top: 0.65ex; } /* add space between thead row and tbody */
@@ -230,24 +252,19 @@ th, td{ font-size: 1.2rem;
 
 /* Basic Layout stuff --*/
 
-article { position: relative;
-          padding: 1
-
-          rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
-
+article {
+  position: relative;
+  padding: 1rem 0 2.5rem;
+}
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
 
 ul,ol { width: 45%;
-     -webkit-padding-start: 5%;
-     -webkit-padding-end: 5%;
      list-style-type: none; }
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
 figure, figure img.maincolumn { max-width: 55%;
-         -webkit-margin-start: 0;
-         -webkit-margin-end: 0;
          margin-bottom: 3em; }
 
 figcaption { float: right;
@@ -321,8 +338,13 @@ pre { width: 52.5%; //, pre code, p pre code are both selectors in tufte.css - t
 
 .fullwidth, li.listing div{ max-width: 90%; }
 
-.full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
-
+.full-width {
+  .sidenote,
+  .sidenote-number,
+  .marginnote {
+    display: none;
+  }
+}
 span.newthought { font-variant: small-caps;
                   font-size: 1.2em;
                   letter-spacing: 0.05rem; }
@@ -417,13 +439,13 @@ ul.footer-links li{
 
 //change font color for credit links in footer
 
-.credits{
+.credits {
   font-family: $sans-font;
-    & a{
-      color: $contrast-color;
-    }
-}
 
+  a {
+    color: $contrast-color;
+  }
+}
 // End of Nav and Footer styling area
 
 //Full width page styling stuff
@@ -454,13 +476,14 @@ li.listing hr{
   display: inline-block;
   margin:0;
 }
+
 li.listing {
-  margin:0;
-  & p{
-    width: 100%
+  margin: 0;
+
+  p {
+    width: 100%;
   }
 }
-
 
 li.listing:last-of-type{
   border-bottom: none;
@@ -475,13 +498,25 @@ hr.slender {
     height: 1px;
     margin-top: 1.4rem;
     margin-bottom:1.4rem;
-    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
-    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
     background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
     background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
 }
 // End of front listing page stuff
+ul,
+ol {
+  width: 45%;
+  padding-inline-start: 5%;
+  padding-inline-end: 5%;
+  list-style-type: none;
+}
 
+figure,
+figure img.maincolumn {
+  max-width: 55%;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  margin-bottom: 3em;
+}
 
 // Printing ands screen media queries
 
