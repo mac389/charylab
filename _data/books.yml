@@ -369,3 +369,23 @@
   author: "Pandora Sykes"
   url: "https://nypl.overdrive.com/media/9043370"
   date_finished: Feb 5, 2026
+- title: "Otherworldly"
+  author: "Dwain Worrell"
+  url: https://www.amazon.com/dp/B0F2SFWM92
+  date_finished: Mar 14, 2026
+- title: "The House of the Dead"
+  author: "Fyodor Dostoevsky" 
+  url: https://www.amazon.com/House-Dead-Penguin-Classics/dp/0140444564
+  stopped_reading: true
+  notes: "I like the book initially, but the characterization was very repetitive after the first 50 pages. "
+- title: "The Children of Jocasta"
+  author: "Natalie Haynes" 
+  url: https://www.goodreads.com/book/show/33667103-the-children-of-jocasta
+  notes: "Great book. Not as familiar with the Theban cycle as the Trojan one."
+  date_finished: Mar 20, 2026
+- title: "Under the Eye of the Big Bird"
+  author: "Hiromi Kawakami" 
+  url: https://www.goodreads.com/book/show/205673377-under-the-eye-of-the-big-bird?
+  stopped_reading: true
+  notes: "Perhaps it was the translation, but I found the narrative superficial barely describing the characters."
+  date_finished: Mar 25, 2026

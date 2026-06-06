@@ -81,6 +81,11 @@ collections:
     permalink: /podcasts/:path/
   scientific_notes:
     output: false
+  parky:
+    output: false
+  pages:
+    output: true
+    permalink: /:path/
 
 defaults:
   - scope:

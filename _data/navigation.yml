@@ -24,7 +24,7 @@
       url: /jarvis
     # - title: EKGs
     #   url: /ekg
-- title: Podcasts
-  url: /podcasts
+# - title: Podcasts
+#   url: /podcasts
 - title: Notebooks
   url: /notebooks

@@ -4,7 +4,7 @@ tag: [linguistics]
 excerpt: Learning the Danish Language
 layout: post
 title: Danish Language
-modified: 2021-06-21	
+modified: 2026-04-22	
 ---
 
 
@@ -43,6 +43,8 @@ For eksempel:
 1. [Danish: An Elementary Grammar and Reader](https://www.amazon.com/Danish-Elementary-Grammar-Elias-Bredsdorff/dp/0521098211/ref=sr_1_2?dchild=1&keywords=danish+grammar+and+reader&qid=1592144885&s=books&sr=1-2)
 1. [DuoLingo: Danish](https://www.duolingo.com/enroll/da/en/Learn-Danish)
 1. [Tomas' YouTube Channel](https://www.youtube.com/watch?v=4p2YQSGt9u8&ab_channel=DanishMastery)
+1. Pmsleur's. This really helped with pronunciation. Only one level of lessons though. 
+1. DanishPod. More advanced pronunciation and grammar, but short lessons.
 
 
 ### Words I've learned from Ligetil
