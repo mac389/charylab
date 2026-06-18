@@ -16,3 +16,9 @@
     - "Dalton High School"
   main_project: Named Entity Linking
   main_project_link:
+- name: Han Xiao
+  info: High School Student
+  education:
+    - "Bronx High School of Science"
+  main_project: Named Entity Linking
+  main_project_link:
