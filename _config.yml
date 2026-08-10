@@ -20,6 +20,7 @@ pdf2svg: "/usr/local/Cellar/pdf2svg"
 include:
   - .htaccess
   - _pages
+  - _demo
 
 plugins:
   - jekyll-sitemap
