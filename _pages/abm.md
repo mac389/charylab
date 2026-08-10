@@ -7,16 +7,6 @@ permalink: /abm/
 parse_html_block: false
 ---
 
-
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CWID SimCity Viewer</title>
-    <script type="module" crossorigin src="./assets/index-COHCyDVf.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-CLJ92dSN.css">
-  </head>
-  <body>
-    <div id="root"></div>
-  </body>
-</html>
+<link rel="stylesheet" href="{{ '/_demo/sim_city/assets/index-CLJ92dSN.css' | relative_url }}">
+<div id="root"></div>
+<script type="module" src="{{ '/_demo/sim_city/assets/index-COHCyDVf.js' | relative_url }}"></script>
